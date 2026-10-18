@@ -1,0 +1,1001 @@
+Participant_ID,State,Geopolitical_Zone,Residence,Age_years,Sex,Education,Occupation,Smoking_status,Smokeless_tobacco_use,Alcohol_use,HBV_status,HCV_status,Aflatoxin_exposure,BMI_kg_m2,Diabetes,Family_history_liver_cancer,Liver_cancer_status,Clinical_stage,AFP_ng_mL
+NLCG0001,Bayelsa,South South,Rural,61,Male,Primary,Trading,Never,Yes,Current,No,No,High,19.7,No,No,Control,Not applicable,9.7
+NLCG0002,Kogi,North Central,Urban,49,Female,Tertiary,Civil service,Never,Yes,Never,Yes,No,Moderate,19.8,No,No,Control,Not applicable,6.6
+NLCG0003,Niger,North Central,Urban,46,Male,Primary,Unemployed/Retired,Never,No,Never,No,No,Low,27.5,No,No,Control,Not applicable,6.0
+NLCG0004,Kaduna,North West,Urban,39,Male,Tertiary,Agriculture,Never,No,Current,No,No,Moderate,26.9,No,No,Control,Not applicable,10.0
+NLCG0005,Ekiti,South West,Urban,35,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,17.7,No,Yes,Control,Not applicable,10.6
+NLCG0006,Borno,North East,Urban,74,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,25.6,No,No,Control,Not applicable,15.5
+NLCG0007,Ondo,South West,Rural,41,Female,Secondary,Civil service,Never,No,Never,No,No,High,25.5,No,No,Control,Not applicable,12.7
+NLCG0008,Zamfara,North West,Urban,54,Male,None,Agriculture,Never,No,Never,No,No,Low,31.3,No,No,Control,Not applicable,20.5
+NLCG0009,Kebbi,North West,Rural,54,Female,Primary,Agriculture,Never,No,Never,Yes,No,High,26.7,No,No,Case,IV,776.8
+NLCG0010,Kebbi,North West,Rural,48,Female,Tertiary,Trading,Never,No,Never,No,No,Low,33.3,No,No,Control,Not applicable,8.3
+NLCG0011,Akwa Ibom,South South,Urban,33,Female,Secondary,Skilled manual,Never,No,Never,No,No,High,20.7,No,No,Control,Not applicable,11.2
+NLCG0012,Ondo,South West,Urban,25,Male,None,Agriculture,Never,No,Former,No,No,Moderate,25.6,No,No,Control,Not applicable,14.2
+NLCG0013,Plateau,North Central,Rural,65,Male,Primary,Skilled manual,Never,No,Never,No,No,Low,22.8,No,No,Control,Not applicable,17.3
+NLCG0014,Lagos,South West,Rural,64,Female,None,Agriculture,Never,No,Never,No,No,Moderate,31.7,No,No,Control,Not applicable,6.8
+NLCG0015,Oyo,South West,Urban,76,Male,Tertiary,Unemployed/Retired,Former,No,Never,No,No,High,31.0,No,No,Control,Not applicable,6.0
+NLCG0016,Nasarawa,North Central,Rural,42,Male,Secondary,Agriculture,Former,Yes,Never,No,No,Moderate,27.3,No,No,Control,Not applicable,10.7
+NLCG0017,Akwa Ibom,South South,Rural,35,Female,None,Unemployed/Retired,Never,No,Current,No,No,Moderate,28.7,Yes,No,Control,Not applicable,20.4
+NLCG0018,Abia,South East,Urban,57,Male,None,Professional,Never,No,Never,No,No,Low,27.1,Yes,No,Control,Not applicable,15.6
+NLCG0019,Taraba,North East,Rural,41,Male,None,Agriculture,Never,No,Never,No,No,Moderate,24.2,No,No,Control,Not applicable,4.8
+NLCG0020,Kano,North West,Urban,46,Male,None,Professional,Never,No,Current,No,No,Low,19.7,No,No,Control,Not applicable,13.1
+NLCG0021,Kogi,North Central,Urban,49,Male,None,Trading,Never,No,Current,No,No,Low,26.0,No,No,Control,Not applicable,15.3
+NLCG0022,Niger,North Central,Urban,67,Female,Tertiary,Agriculture,Never,No,Never,No,No,Moderate,29.6,No,No,Control,Not applicable,15.2
+NLCG0023,Zamfara,North West,Rural,37,Female,None,Unemployed/Retired,Former,No,Never,No,No,High,28.5,No,No,Control,Not applicable,5.7
+NLCG0024,Imo,South East,Rural,41,Male,Primary,Skilled manual,Never,No,Former,No,No,High,25.4,No,No,Control,Not applicable,4.9
+NLCG0025,Jigawa,North West,Rural,47,Female,Secondary,Trading,Never,No,Current,No,No,Moderate,22.1,No,No,Control,Not applicable,5.7
+NLCG0026,Bayelsa,South South,Rural,35,Male,Tertiary,Civil service,Never,No,Current,No,No,Low,21.9,No,No,Control,Not applicable,13.0
+NLCG0027,Nasarawa,North Central,Rural,25,Female,Tertiary,Unemployed/Retired,Never,No,Current,No,No,Low,29.1,No,No,Control,Not applicable,7.1
+NLCG0028,Gombe,North East,Rural,52,Male,Secondary,Agriculture,Never,No,Never,No,No,Moderate,30.1,No,No,Control,Not applicable,13.2
+NLCG0029,Katsina,North West,Rural,33,Female,Tertiary,Civil service,Never,No,Never,No,No,High,26.6,No,Yes,Control,Not applicable,9.4
+NLCG0030,Delta,South South,Urban,34,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,30.3,No,Yes,Control,Not applicable,10.0
+NLCG0031,Ondo,South West,Urban,35,Female,Secondary,Agriculture,Never,No,Current,No,No,High,23.5,No,No,Control,Not applicable,10.9
+NLCG0032,Kano,North West,Urban,42,Male,Secondary,Civil service,Never,No,Never,No,No,High,27.8,No,Yes,Control,Not applicable,10.2
+NLCG0033,Kogi,North Central,Rural,44,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,22.1,No,No,Control,Not applicable,11.1
+NLCG0034,Enugu,South East,Urban,59,Male,Tertiary,Professional,Never,No,Never,No,No,Moderate,18.0,No,No,Control,Not applicable,14.1
+NLCG0035,Oyo,South West,Urban,39,Male,Secondary,Agriculture,Never,No,Current,No,No,Moderate,21.4,No,No,Control,Not applicable,7.4
+NLCG0036,Oyo,South West,Urban,59,Male,Secondary,Civil service,Never,No,Never,No,No,Low,27.2,No,No,Control,Not applicable,4.6
+NLCG0037,Ebonyi,South East,Urban,40,Female,Secondary,Agriculture,Never,Yes,Never,Yes,No,High,32.4,No,No,Control,Not applicable,7.6
+NLCG0038,Rivers,South South,Urban,43,Male,None,Agriculture,Current,No,Never,No,No,Low,28.7,No,No,Case,I,11.5
+NLCG0039,Kebbi,North West,Urban,52,Male,Secondary,Skilled manual,Never,No,Current,No,No,High,30.9,No,No,Control,Not applicable,7.0
+NLCG0040,Oyo,South West,Rural,68,Female,Secondary,Skilled manual,Never,No,Never,Yes,No,Moderate,25.2,No,No,Case,I,35.7
+NLCG0041,Taraba,North East,Rural,39,Female,Tertiary,Professional,Never,No,Never,No,No,Low,29.4,No,No,Control,Not applicable,18.8
+NLCG0042,Oyo,South West,Urban,50,Male,Tertiary,Civil service,Never,No,Current,No,No,Moderate,31.4,No,Yes,Control,Not applicable,8.9
+NLCG0043,Jigawa,North West,Rural,63,Female,Tertiary,Agriculture,Never,No,Never,No,No,High,29.5,No,No,Control,Not applicable,11.0
+NLCG0044,Kano,North West,Rural,37,Male,Secondary,Trading,Never,No,Current,Yes,No,Low,29.4,No,No,Control,Not applicable,12.3
+NLCG0045,Edo,South South,Rural,52,Female,Primary,Professional,Never,No,Never,No,No,Low,32.5,No,No,Control,Not applicable,13.1
+NLCG0046,Bayelsa,South South,Rural,45,Female,Tertiary,Civil service,Never,No,Never,No,No,Moderate,26.8,No,No,Control,Not applicable,7.3
+NLCG0047,Bayelsa,South South,Rural,26,Female,Secondary,Trading,Never,No,Never,Yes,No,Low,33.4,No,No,Control,Not applicable,9.8
+NLCG0048,Oyo,South West,Urban,44,Female,Primary,Trading,Former,No,Never,No,No,Low,26.3,No,No,Control,Not applicable,8.5
+NLCG0049,Lagos,South West,Rural,80,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,29.4,No,No,Case,III,286.1
+NLCG0050,Lagos,South West,Urban,59,Male,Tertiary,Unemployed/Retired,Former,No,Current,Yes,No,High,26.0,No,No,Control,Not applicable,4.1
+NLCG0051,Kano,North West,Rural,33,Female,Secondary,Professional,Never,No,Never,No,Yes,High,26.8,No,Yes,Control,Not applicable,9.1
+NLCG0052,Lagos,South West,Rural,40,Female,None,Professional,Never,Yes,Never,No,No,Low,24.6,No,No,Control,Not applicable,13.3
+NLCG0053,Lagos,South West,Rural,67,Female,Primary,Professional,Current,No,Current,No,No,Moderate,24.6,No,No,Control,Not applicable,7.2
+NLCG0054,Sokoto,North West,Rural,59,Male,Primary,Agriculture,Never,No,Never,Yes,No,Moderate,34.9,No,No,Control,Not applicable,24.3
+NLCG0055,Enugu,South East,Urban,32,Male,Primary,Agriculture,Never,No,Never,No,No,Low,28.8,No,No,Control,Not applicable,14.4
+NLCG0056,Anambra,South East,Rural,43,Male,Primary,Agriculture,Current,No,Current,No,No,Low,28.6,No,No,Control,Not applicable,6.7
+NLCG0057,Akwa Ibom,South South,Rural,28,Female,Secondary,Unemployed/Retired,Never,Yes,Former,No,No,High,25.8,No,No,Control,Not applicable,5.3
+NLCG0058,FCT,North Central,Rural,55,Male,Primary,Professional,Never,No,Never,No,No,Low,25.7,No,No,Control,Not applicable,5.5
+NLCG0059,Akwa Ibom,South South,Urban,33,Male,Secondary,Skilled manual,Never,Yes,Never,Yes,No,Moderate,27.6,No,No,Control,Not applicable,7.8
+NLCG0060,Ondo,South West,Urban,57,Female,Primary,Unemployed/Retired,Never,No,Current,No,No,High,22.0,No,No,Control,Not applicable,4.9
+NLCG0061,Ogun,South West,Urban,56,Female,Secondary,Civil service,Never,No,Never,Yes,No,Low,22.0,No,No,Control,Not applicable,5.3
+NLCG0062,Plateau,North Central,Rural,57,Female,Secondary,Agriculture,Never,No,Never,No,No,High,23.8,No,No,Control,Not applicable,8.2
+NLCG0063,Bayelsa,South South,Rural,46,Male,None,Unemployed/Retired,Never,No,Never,No,No,High,25.4,No,No,Control,Not applicable,7.7
+NLCG0064,Yobe,North East,Urban,48,Male,Secondary,Unemployed/Retired,Former,Yes,Current,No,No,Moderate,21.4,No,No,Control,Not applicable,6.2
+NLCG0065,Bauchi,North East,Urban,74,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,22.1,No,No,Control,Not applicable,8.8
+NLCG0066,Borno,North East,Urban,26,Female,None,Skilled manual,Never,No,Never,No,No,Moderate,22.6,Yes,No,Control,Not applicable,6.0
+NLCG0067,Lagos,South West,Urban,39,Female,Secondary,Trading,Never,No,Never,No,No,Low,26.6,No,No,Control,Not applicable,5.8
+NLCG0068,Enugu,South East,Urban,62,Male,Tertiary,Trading,Never,No,Current,No,Yes,High,26.0,No,No,Case,II,60.7
+NLCG0069,Kaduna,North West,Rural,60,Female,Primary,Skilled manual,Never,Yes,Never,No,No,Moderate,23.6,No,No,Control,Not applicable,6.1
+NLCG0070,Bayelsa,South South,Rural,59,Male,Secondary,Professional,Current,No,Never,No,No,Low,28.5,No,No,Control,Not applicable,10.3
+NLCG0071,Osun,South West,Rural,49,Female,None,Agriculture,Never,No,Never,No,No,Moderate,19.8,No,No,Control,Not applicable,18.9
+NLCG0072,Lagos,South West,Urban,38,Female,Secondary,Trading,Never,No,Never,No,No,Low,36.0,No,No,Control,Not applicable,11.0
+NLCG0073,Lagos,South West,Urban,66,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Moderate,17.5,No,No,Control,Not applicable,6.3
+NLCG0074,Cross River,South South,Urban,21,Male,Primary,Skilled manual,Never,No,Never,No,No,Low,32.0,No,No,Control,Not applicable,5.0
+NLCG0075,Kano,North West,Urban,66,Female,Primary,Trading,Never,No,Current,No,No,High,25.3,No,No,Control,Not applicable,12.6
+NLCG0076,Nasarawa,North Central,Urban,46,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,29.4,No,No,Control,Not applicable,8.3
+NLCG0077,Adamawa,North East,Rural,52,Female,Secondary,Agriculture,Never,Yes,Never,No,Yes,Moderate,23.6,No,No,Control,Not applicable,10.5
+NLCG0078,Kano,North West,Urban,50,Female,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,26.3,No,No,Control,Not applicable,11.2
+NLCG0079,Akwa Ibom,South South,Urban,42,Male,Primary,Agriculture,Never,No,Never,No,No,High,28.0,No,No,Control,Not applicable,8.5
+NLCG0080,Oyo,South West,Rural,30,Female,Tertiary,Unemployed/Retired,Never,Yes,Never,No,No,Low,26.1,No,No,Control,Not applicable,7.8
+NLCG0081,Adamawa,North East,Rural,40,Male,None,Agriculture,Never,No,Never,No,Yes,Moderate,28.6,No,No,Control,Not applicable,7.6
+NLCG0082,Taraba,North East,Urban,44,Female,Secondary,Professional,Never,No,Former,No,No,Moderate,21.6,No,No,Control,Not applicable,15.8
+NLCG0083,Ogun,South West,Urban,34,Female,Secondary,Agriculture,Never,No,Current,No,No,Moderate,26.9,No,No,Control,Not applicable,7.3
+NLCG0084,Ekiti,South West,Rural,49,Female,Secondary,Agriculture,Never,No,Never,No,No,High,33.1,No,No,Control,Not applicable,6.5
+NLCG0085,FCT,North Central,Urban,55,Female,Secondary,Unemployed/Retired,Never,No,Never,Yes,No,High,25.9,No,No,Control,Not applicable,8.9
+NLCG0086,FCT,North Central,Rural,25,Female,None,Agriculture,Never,No,Current,No,No,High,23.2,No,No,Control,Not applicable,9.3
+NLCG0087,Yobe,North East,Rural,33,Female,None,Civil service,Never,No,Never,No,No,Moderate,17.8,No,No,Control,Not applicable,6.4
+NLCG0088,Kano,North West,Urban,77,Female,Primary,Skilled manual,Current,No,Never,No,No,Low,31.5,No,No,Case,III,612.7
+NLCG0089,Yobe,North East,Rural,27,Male,Primary,Unemployed/Retired,Former,Yes,Never,No,No,Moderate,25.5,No,No,Control,Not applicable,7.0
+NLCG0090,Jigawa,North West,Rural,83,Female,None,Trading,Never,No,Current,No,No,High,38.2,No,No,Control,Not applicable,9.2
+NLCG0091,FCT,North Central,Urban,29,Female,Secondary,Trading,Never,No,Never,No,No,Low,25.7,No,No,Control,Not applicable,15.8
+NLCG0092,Nasarawa,North Central,Rural,75,Female,Secondary,Civil service,Never,No,Never,No,No,Low,21.5,Yes,No,Case,I,42.7
+NLCG0093,Enugu,South East,Rural,42,Female,None,Skilled manual,Never,No,Never,No,No,Moderate,29.3,No,No,Control,Not applicable,7.7
+NLCG0094,Osun,South West,Rural,34,Female,None,Unemployed/Retired,Never,No,Current,No,No,Low,32.9,No,No,Control,Not applicable,6.1
+NLCG0095,Rivers,South South,Urban,35,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,27.7,No,No,Control,Not applicable,6.9
+NLCG0096,Ebonyi,South East,Rural,54,Female,Secondary,Professional,Never,No,Never,Yes,No,Moderate,25.3,Yes,No,Control,Not applicable,6.0
+NLCG0097,Rivers,South South,Urban,52,Female,Secondary,Skilled manual,Never,No,Never,No,No,Low,29.4,No,No,Control,Not applicable,8.2
+NLCG0098,FCT,North Central,Rural,48,Female,Primary,Skilled manual,Never,No,Never,No,No,Low,26.6,No,No,Control,Not applicable,26.7
+NLCG0099,Gombe,North East,Urban,66,Female,Primary,Civil service,Never,No,Never,No,No,Moderate,15,No,Yes,Control,Not applicable,9.2
+NLCG0100,Abia,South East,Rural,56,Male,None,Unemployed/Retired,Never,No,Former,No,No,High,31.4,Yes,No,Control,Not applicable,5.7
+NLCG0101,Akwa Ibom,South South,Rural,63,Male,Primary,Unemployed/Retired,Never,Yes,Never,No,No,Moderate,29.1,Yes,No,Control,Not applicable,14.1
+NLCG0102,Sokoto,North West,Rural,29,Female,Tertiary,Agriculture,Never,No,Never,No,No,High,21.5,Yes,No,Control,Not applicable,8.6
+NLCG0103,Kebbi,North West,Rural,47,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,29.0,No,No,Control,Not applicable,2.7
+NLCG0104,Ebonyi,South East,Rural,63,Male,Secondary,Skilled manual,Never,No,Former,No,No,Moderate,29.0,No,No,Control,Not applicable,12.3
+NLCG0105,Adamawa,North East,Urban,38,Female,Primary,Unemployed/Retired,Never,No,Never,No,No,Moderate,23.8,No,No,Control,Not applicable,7.2
+NLCG0106,Kwara,North Central,Rural,85,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,High,32.2,No,No,Control,Not applicable,7.8
+NLCG0107,Delta,South South,Rural,18,Female,None,Unemployed/Retired,Never,No,Former,Yes,No,Low,25.7,No,No,Control,Not applicable,6.5
+NLCG0108,Borno,North East,Rural,62,Male,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,28.3,No,No,Control,Not applicable,6.2
+NLCG0109,Niger,North Central,Urban,62,Male,Secondary,Trading,Former,No,Never,Yes,No,Moderate,19.9,No,No,Control,Not applicable,10.3
+NLCG0110,Zamfara,North West,Rural,40,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Moderate,27.5,No,No,Control,Not applicable,10.1
+NLCG0111,Cross River,South South,Urban,48,Male,Secondary,Unemployed/Retired,Current,No,Never,No,No,Low,33.4,No,No,Control,Not applicable,3.4
+NLCG0112,Anambra,South East,Urban,68,Female,Tertiary,Professional,Never,No,Never,No,No,Moderate,25.8,No,Yes,Case,I,255.3
+NLCG0113,Ogun,South West,Urban,27,Male,Secondary,Agriculture,Never,No,Current,No,No,High,32.6,No,No,Control,Not applicable,8.4
+NLCG0114,Cross River,South South,Rural,51,Female,Tertiary,Professional,Never,No,Never,No,No,Moderate,26.8,No,No,Control,Not applicable,8.5
+NLCG0115,Abia,South East,Rural,55,Female,Secondary,Agriculture,Never,No,Current,No,No,High,22.9,No,No,Control,Not applicable,10.4
+NLCG0116,Ebonyi,South East,Rural,27,Female,None,Unemployed/Retired,Never,No,Never,Yes,No,Low,30.6,No,No,Case,III,157.8
+NLCG0117,Borno,North East,Urban,51,Male,Primary,Professional,Never,No,Current,No,No,High,21.5,No,No,Case,IV,584.9
+NLCG0118,Ogun,South West,Rural,37,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,29.1,No,No,Control,Not applicable,13.4
+NLCG0119,Kogi,North Central,Rural,51,Male,Primary,Civil service,Never,No,Never,No,No,Low,26.4,No,No,Control,Not applicable,7.8
+NLCG0120,Yobe,North East,Rural,25,Female,Secondary,Professional,Never,Yes,Current,No,No,Moderate,33.6,No,No,Control,Not applicable,8.5
+NLCG0121,Kaduna,North West,Urban,36,Male,Primary,Trading,Current,Yes,Current,Yes,No,Moderate,31.5,No,No,Control,Not applicable,9.0
+NLCG0122,Akwa Ibom,South South,Rural,47,Male,Secondary,Trading,Never,No,Never,No,No,High,21.0,No,No,Control,Not applicable,14.0
+NLCG0123,Lagos,South West,Rural,33,Male,Tertiary,Unemployed/Retired,Former,No,Current,Yes,No,Low,19.1,No,No,Control,Not applicable,7.8
+NLCG0124,Bayelsa,South South,Urban,65,Female,Secondary,Agriculture,Never,No,Current,No,No,Moderate,22.3,No,No,Control,Not applicable,31.3
+NLCG0125,Yobe,North East,Urban,31,Male,Secondary,Civil service,Former,No,Former,No,No,Low,21.4,No,Yes,Control,Not applicable,11.8
+NLCG0126,Rivers,South South,Urban,62,Male,Tertiary,Civil service,Never,No,Current,No,No,Moderate,27.4,No,No,Control,Not applicable,11.8
+NLCG0127,Ondo,South West,Urban,45,Male,Secondary,Civil service,Never,Yes,Current,No,No,Low,26.0,No,No,Control,Not applicable,15.8
+NLCG0128,Sokoto,North West,Urban,28,Male,Secondary,Trading,Never,No,Former,Yes,No,Low,25.1,No,No,Control,Not applicable,7.3
+NLCG0129,Cross River,South South,Rural,44,Male,Primary,Skilled manual,Never,No,Never,No,No,Low,24.6,No,No,Control,Not applicable,8.2
+NLCG0130,Bauchi,North East,Rural,23,Male,None,Skilled manual,Never,No,Never,No,No,Low,22.5,No,No,Control,Not applicable,16.2
+NLCG0131,Kaduna,North West,Urban,62,Male,Primary,Civil service,Never,No,Never,No,No,Low,31.1,No,No,Case,III,104.1
+NLCG0132,Cross River,South South,Rural,62,Female,None,Skilled manual,Never,No,Never,No,No,Low,30.2,No,No,Case,III,228.1
+NLCG0133,Jigawa,North West,Rural,43,Male,Primary,Civil service,Former,No,Former,No,No,Moderate,19.3,Yes,No,Control,Not applicable,9.5
+NLCG0134,Bauchi,North East,Urban,41,Male,Tertiary,Trading,Never,No,Never,No,No,Low,21.1,No,No,Control,Not applicable,10.8
+NLCG0135,Rivers,South South,Urban,66,Male,Tertiary,Trading,Never,No,Current,No,No,Low,25.6,No,No,Control,Not applicable,8.8
+NLCG0136,Benue,North Central,Urban,48,Male,Secondary,Unemployed/Retired,Current,No,Never,No,No,Low,28.8,No,Yes,Control,Not applicable,6.3
+NLCG0137,Niger,North Central,Urban,45,Male,Primary,Trading,Never,No,Never,No,Yes,Moderate,27.4,No,No,Control,Not applicable,14.1
+NLCG0138,Niger,North Central,Urban,62,Female,None,Agriculture,Never,No,Never,No,No,High,23.8,No,Yes,Control,Not applicable,5.5
+NLCG0139,Oyo,South West,Urban,49,Female,Tertiary,Trading,Never,No,Never,No,No,Low,35.9,Yes,No,Control,Not applicable,8.8
+NLCG0140,Nasarawa,North Central,Rural,49,Female,Tertiary,Trading,Never,No,Never,No,No,Moderate,15,No,No,Control,Not applicable,2.9
+NLCG0141,Borno,North East,Urban,44,Male,Secondary,Agriculture,Current,No,Never,No,No,Moderate,25.9,No,No,Control,Not applicable,6.8
+NLCG0142,Borno,North East,Rural,22,Male,None,Professional,Never,No,Current,No,No,Moderate,23.4,No,No,Control,Not applicable,8.5
+NLCG0143,Ebonyi,South East,Rural,63,Male,Secondary,Professional,Never,No,Current,No,No,Low,22.6,No,No,Control,Not applicable,5.9
+NLCG0144,Imo,South East,Rural,42,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,35.9,No,Yes,Control,Not applicable,12.6
+NLCG0145,Kogi,North Central,Urban,28,Female,Tertiary,Trading,Never,No,Former,No,No,Moderate,29.0,No,No,Control,Not applicable,8.3
+NLCG0146,Imo,South East,Rural,37,Female,Secondary,Professional,Never,No,Never,No,No,Low,32.5,No,No,Control,Not applicable,6.4
+NLCG0147,Nasarawa,North Central,Urban,57,Female,Secondary,Trading,Never,No,Current,No,No,High,28.1,No,No,Control,Not applicable,13.9
+NLCG0148,Kwara,North Central,Rural,57,Male,None,Agriculture,Never,Yes,Never,No,No,Moderate,21.8,No,No,Control,Not applicable,15.7
+NLCG0149,Kogi,North Central,Rural,41,Female,Secondary,Civil service,Never,No,Never,Yes,No,Low,24.2,No,No,Control,Not applicable,15.6
+NLCG0150,Ekiti,South West,Urban,48,Male,None,Agriculture,Never,No,Never,No,No,Low,25.2,No,No,Control,Not applicable,14.9
+NLCG0151,Kano,North West,Urban,52,Female,Secondary,Professional,Never,No,Never,No,No,Moderate,16.1,No,No,Control,Not applicable,15.0
+NLCG0152,Lagos,South West,Rural,50,Female,None,Unemployed/Retired,Never,No,Current,No,No,Moderate,22.3,No,No,Control,Not applicable,8.5
+NLCG0153,Ebonyi,South East,Rural,66,Male,None,Skilled manual,Never,No,Current,No,No,Moderate,32.7,No,No,Control,Not applicable,14.6
+NLCG0154,Nasarawa,North Central,Urban,32,Female,None,Civil service,Never,No,Former,No,No,High,35.6,No,No,Control,Not applicable,11.5
+NLCG0155,Yobe,North East,Rural,20,Male,Primary,Civil service,Never,No,Current,No,No,Low,30.6,No,No,Control,Not applicable,9.9
+NLCG0156,Kaduna,North West,Urban,46,Female,Secondary,Civil service,Former,No,Current,No,No,Low,33.4,No,No,Control,Not applicable,4.6
+NLCG0157,Benue,North Central,Rural,61,Female,None,Civil service,Never,No,Current,No,No,High,23.2,No,No,Case,III,99.5
+NLCG0158,Abia,South East,Rural,56,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,High,18.2,No,No,Case,IV,188.6
+NLCG0159,Zamfara,North West,Urban,55,Male,None,Agriculture,Never,No,Never,No,No,High,27.7,No,No,Control,Not applicable,9.8
+NLCG0160,Kebbi,North West,Rural,46,Female,Secondary,Unemployed/Retired,Current,No,Never,Yes,Yes,Low,18.3,No,No,Control,Not applicable,13.7
+NLCG0161,Gombe,North East,Urban,42,Male,Secondary,Unemployed/Retired,Current,No,Former,No,No,Low,20.8,Yes,No,Case,IV,91.7
+NLCG0162,Katsina,North West,Urban,39,Female,Secondary,Skilled manual,Never,No,Never,No,No,Moderate,17.9,Yes,No,Control,Not applicable,9.2
+NLCG0163,Kano,North West,Rural,79,Male,Secondary,Unemployed/Retired,Never,No,Former,No,No,Low,23.6,No,No,Control,Not applicable,7.4
+NLCG0164,Bauchi,North East,Rural,34,Female,None,Trading,Never,No,Current,No,No,Low,21.6,No,No,Control,Not applicable,10.1
+NLCG0165,Katsina,North West,Rural,39,Male,Secondary,Civil service,Never,No,Current,Yes,No,Moderate,30.2,No,No,Case,IV,88.8
+NLCG0166,FCT,North Central,Urban,19,Female,None,Unemployed/Retired,Never,No,Never,No,No,Low,23.7,No,Yes,Control,Not applicable,5.0
+NLCG0167,Kaduna,North West,Rural,66,Male,Primary,Professional,Former,No,Never,No,No,High,28.2,No,No,Case,I,68.5
+NLCG0168,Lagos,South West,Urban,44,Male,Primary,Unemployed/Retired,Never,No,Former,No,No,Low,25.0,No,No,Control,Not applicable,8.5
+NLCG0169,Ekiti,South West,Rural,53,Male,None,Agriculture,Never,No,Never,Yes,No,Moderate,18.3,No,No,Control,Not applicable,11.2
+NLCG0170,Taraba,North East,Rural,48,Male,Primary,Agriculture,Never,No,Never,No,No,Low,31.1,No,No,Control,Not applicable,14.2
+NLCG0171,Adamawa,North East,Rural,42,Male,Secondary,Unemployed/Retired,Never,No,Current,Yes,No,Moderate,26.8,No,No,Case,IV,63.2
+NLCG0172,Zamfara,North West,Rural,42,Male,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,37.1,No,No,Control,Not applicable,10.8
+NLCG0173,Jigawa,North West,Urban,54,Female,Secondary,Agriculture,Never,No,Never,No,No,Low,28.5,No,No,Control,Not applicable,4.0
+NLCG0174,Yobe,North East,Urban,75,Male,Secondary,Agriculture,Never,No,Former,No,No,Moderate,29.8,No,No,Case,IV,185.6
+NLCG0175,Lagos,South West,Urban,44,Female,Secondary,Trading,Never,No,Never,No,No,High,17.1,No,No,Control,Not applicable,6.2
+NLCG0176,Rivers,South South,Urban,65,Male,Secondary,Professional,Never,No,Current,No,No,Moderate,24.5,No,No,Control,Not applicable,6.4
+NLCG0177,Adamawa,North East,Rural,31,Male,Tertiary,Unemployed/Retired,Never,Yes,Former,Yes,No,High,26.9,No,No,Control,Not applicable,9.3
+NLCG0178,Adamawa,North East,Urban,54,Male,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,31.9,No,No,Control,Not applicable,5.5
+NLCG0179,Nasarawa,North Central,Urban,29,Male,Primary,Unemployed/Retired,Current,No,Current,No,No,High,26.8,No,No,Control,Not applicable,13.4
+NLCG0180,Borno,North East,Urban,57,Female,None,Trading,Never,No,Never,No,No,Moderate,24.1,No,No,Control,Not applicable,6.3
+NLCG0181,Edo,South South,Rural,62,Female,Primary,Agriculture,Never,No,Never,No,No,High,23.9,No,No,Case,III,727.9
+NLCG0182,Taraba,North East,Rural,44,Male,Primary,Skilled manual,Never,No,Current,No,No,Moderate,23.6,No,No,Control,Not applicable,10.5
+NLCG0183,Lagos,South West,Rural,55,Male,None,Agriculture,Never,No,Never,No,No,Moderate,18.3,No,No,Control,Not applicable,7.0
+NLCG0184,Plateau,North Central,Urban,48,Female,Tertiary,Agriculture,Never,No,Never,No,No,Low,25.4,No,No,Control,Not applicable,11.7
+NLCG0185,Bayelsa,South South,Urban,72,Male,Tertiary,Professional,Current,No,Current,No,No,Moderate,28.2,No,No,Control,Not applicable,9.3
+NLCG0186,Plateau,North Central,Urban,34,Male,Tertiary,Professional,Former,No,Current,Yes,No,Low,26.2,No,Yes,Control,Not applicable,9.3
+NLCG0187,Ondo,South West,Rural,54,Male,None,Agriculture,Never,No,Never,No,No,High,28.2,No,No,Control,Not applicable,8.1
+NLCG0188,Ebonyi,South East,Urban,62,Male,Secondary,Trading,Never,No,Never,No,No,High,22.4,No,No,Control,Not applicable,15.2
+NLCG0189,Gombe,North East,Urban,67,Female,Secondary,Professional,Never,No,Former,No,No,Low,24.9,No,No,Control,Not applicable,4.8
+NLCG0190,Enugu,South East,Urban,36,Female,Secondary,Unemployed/Retired,Current,No,Current,Yes,No,Low,17.8,No,No,Control,Not applicable,8.7
+NLCG0191,Gombe,North East,Urban,57,Male,Tertiary,Unemployed/Retired,Former,No,Never,No,No,Low,30.6,No,No,Control,Not applicable,6.6
+NLCG0192,Jigawa,North West,Urban,18,Female,Secondary,Trading,Never,Yes,Current,No,No,High,16.7,No,No,Control,Not applicable,16.3
+NLCG0193,Abia,South East,Rural,43,Female,Primary,Skilled manual,Never,No,Never,No,No,Low,22.7,No,No,Control,Not applicable,7.4
+NLCG0194,Imo,South East,Urban,41,Male,Tertiary,Professional,Never,Yes,Never,No,No,Low,18.2,Yes,No,Control,Not applicable,8.7
+NLCG0195,Kebbi,North West,Urban,55,Female,Primary,Unemployed/Retired,Never,No,Current,No,No,High,27.3,No,No,Case,III,114.1
+NLCG0196,Kwara,North Central,Rural,64,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,33.7,No,No,Control,Not applicable,8.1
+NLCG0197,Lagos,South West,Rural,30,Female,Secondary,Civil service,Never,No,Current,No,No,Moderate,26.3,No,No,Control,Not applicable,5.7
+NLCG0198,Adamawa,North East,Rural,54,Male,Primary,Civil service,Never,No,Never,No,No,Moderate,18.1,No,No,Control,Not applicable,6.9
+NLCG0199,Jigawa,North West,Urban,39,Female,None,Skilled manual,Never,No,Never,No,No,Low,23.9,No,No,Control,Not applicable,6.0
+NLCG0200,Kaduna,North West,Urban,35,Male,Secondary,Trading,Former,No,Never,No,No,Moderate,33.9,No,No,Control,Not applicable,11.3
+NLCG0201,Kano,North West,Urban,37,Female,Primary,Civil service,Never,No,Never,No,Yes,Moderate,24.1,No,No,Control,Not applicable,4.9
+NLCG0202,Kwara,North Central,Rural,37,Female,Primary,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,19.5,No,No,Control,Not applicable,9.7
+NLCG0203,Oyo,South West,Rural,40,Male,Secondary,Professional,Never,No,Never,No,No,Low,21.0,No,No,Control,Not applicable,14.7
+NLCG0204,Jigawa,North West,Rural,25,Male,Secondary,Agriculture,Never,Yes,Never,No,No,Low,16.1,No,Yes,Control,Not applicable,4.6
+NLCG0205,Yobe,North East,Rural,54,Female,None,Civil service,Never,No,Never,Yes,No,Low,15.6,No,Yes,Control,Not applicable,5.0
+NLCG0206,Imo,South East,Rural,67,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,26.6,No,No,Control,Not applicable,11.7
+NLCG0207,Oyo,South West,Urban,51,Female,Tertiary,Unemployed/Retired,Never,No,Former,Yes,No,Moderate,26.1,No,No,Control,Not applicable,9.8
+NLCG0208,Kaduna,North West,Rural,49,Male,Secondary,Agriculture,Never,Yes,Current,No,No,Moderate,29.3,No,No,Control,Not applicable,8.2
+NLCG0209,Rivers,South South,Urban,38,Female,Primary,Trading,Never,No,Never,No,No,Moderate,27.4,No,Yes,Control,Not applicable,12.9
+NLCG0210,FCT,North Central,Urban,53,Male,Primary,Unemployed/Retired,Former,No,Former,No,No,Low,25.4,No,No,Control,Not applicable,10.9
+NLCG0211,Edo,South South,Rural,69,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,26.0,No,No,Control,Not applicable,17.8
+NLCG0212,Yobe,North East,Rural,53,Male,Secondary,Skilled manual,Never,No,Current,No,No,Low,28.9,No,Yes,Control,Not applicable,5.5
+NLCG0213,FCT,North Central,Urban,59,Female,Primary,Agriculture,Never,Yes,Current,Yes,No,Low,20.9,No,No,Control,Not applicable,11.3
+NLCG0214,Ekiti,South West,Urban,30,Female,Primary,Agriculture,Never,No,Never,No,No,Moderate,25.7,No,No,Control,Not applicable,10.8
+NLCG0215,Zamfara,North West,Urban,39,Female,Tertiary,Civil service,Never,No,Never,No,Yes,High,25.9,No,No,Control,Not applicable,10.8
+NLCG0216,Edo,South South,Rural,24,Male,Tertiary,Trading,Never,No,Never,No,No,Moderate,35.6,Yes,No,Case,II,112.1
+NLCG0217,Borno,North East,Rural,52,Male,None,Unemployed/Retired,Never,No,Never,No,Yes,Moderate,28.9,No,No,Control,Not applicable,19.0
+NLCG0218,Lagos,South West,Urban,41,Male,Tertiary,Trading,Never,No,Current,No,No,High,21.9,No,Yes,Case,IV,121.3
+NLCG0219,Kaduna,North West,Rural,18,Male,None,Agriculture,Former,No,Current,No,No,Moderate,25.1,No,No,Control,Not applicable,13.6
+NLCG0220,Edo,South South,Rural,47,Male,Secondary,Agriculture,Never,No,Never,No,No,Moderate,24.5,No,No,Control,Not applicable,8.8
+NLCG0221,Borno,North East,Rural,59,Male,Secondary,Professional,Never,No,Never,Yes,Yes,Moderate,26.4,No,No,Case,IV,257.7
+NLCG0222,Cross River,South South,Rural,66,Female,Tertiary,Civil service,Never,No,Never,No,No,Low,21.9,No,No,Control,Not applicable,8.3
+NLCG0223,Plateau,North Central,Rural,43,Male,None,Trading,Never,No,Former,No,No,Moderate,26.7,No,No,Control,Not applicable,13.8
+NLCG0224,Kebbi,North West,Rural,50,Male,Secondary,Skilled manual,Never,No,Former,No,No,High,22.6,No,No,Control,Not applicable,13.5
+NLCG0225,Kebbi,North West,Urban,31,Female,Secondary,Trading,Never,No,Former,No,No,High,22.2,No,No,Control,Not applicable,12.7
+NLCG0226,Kebbi,North West,Urban,42,Male,Tertiary,Skilled manual,Never,No,Current,No,No,Low,34.7,No,No,Control,Not applicable,4.8
+NLCG0227,Ondo,South West,Urban,41,Male,Secondary,Trading,Never,No,Never,No,No,High,31.2,No,No,Control,Not applicable,9.6
+NLCG0228,Nasarawa,North Central,Rural,65,Female,Secondary,Skilled manual,Current,No,Current,No,No,Moderate,17.7,No,No,Control,Not applicable,6.1
+NLCG0229,Jigawa,North West,Urban,78,Male,None,Unemployed/Retired,Never,No,Current,No,No,Moderate,23.6,No,No,Control,Not applicable,10.0
+NLCG0230,Abia,South East,Rural,39,Female,None,Civil service,Never,No,Current,No,No,Low,22.2,No,No,Control,Not applicable,7.9
+NLCG0231,Yobe,North East,Rural,29,Female,None,Agriculture,Current,No,Current,No,No,Moderate,30.0,No,No,Control,Not applicable,7.0
+NLCG0232,Ogun,South West,Rural,42,Male,Primary,Agriculture,Never,No,Current,No,No,High,26.5,No,No,Control,Not applicable,4.8
+NLCG0233,Imo,South East,Rural,32,Female,Secondary,Professional,Never,No,Never,No,No,Low,19.4,No,No,Control,Not applicable,8.2
+NLCG0234,Imo,South East,Urban,62,Female,Tertiary,Agriculture,Never,No,Current,No,No,High,27.0,No,No,Control,Not applicable,2.7
+NLCG0235,Kebbi,North West,Rural,47,Female,Primary,Trading,Never,No,Never,No,No,Low,22.0,No,No,Control,Not applicable,13.9
+NLCG0236,Ekiti,South West,Rural,54,Male,Primary,Civil service,Former,No,Never,No,No,Moderate,27.8,No,No,Case,III,194.4
+NLCG0237,Rivers,South South,Urban,54,Male,Secondary,Agriculture,Never,Yes,Current,No,No,High,29.6,No,No,Case,III,209.7
+NLCG0238,Gombe,North East,Rural,62,Female,Primary,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,26.5,No,No,Control,Not applicable,5.1
+NLCG0239,Jigawa,North West,Rural,32,Male,Secondary,Civil service,Never,No,Never,No,No,High,19.9,No,No,Control,Not applicable,22.7
+NLCG0240,Zamfara,North West,Urban,64,Female,Primary,Agriculture,Never,No,Never,No,No,High,23.5,No,No,Control,Not applicable,4.9
+NLCG0241,Plateau,North Central,Rural,59,Female,Primary,Agriculture,Never,No,Current,No,No,Low,32.9,No,Yes,Control,Not applicable,19.6
+NLCG0242,Imo,South East,Urban,41,Female,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,27.4,No,No,Control,Not applicable,9.3
+NLCG0243,Osun,South West,Rural,41,Female,Primary,Professional,Never,No,Never,No,No,High,32.8,No,No,Control,Not applicable,8.4
+NLCG0244,Akwa Ibom,South South,Urban,31,Male,Secondary,Skilled manual,Never,Yes,Never,No,No,Moderate,28.4,No,No,Control,Not applicable,5.7
+NLCG0245,Enugu,South East,Rural,55,Male,Secondary,Professional,Never,No,Never,No,No,Low,20.3,No,Yes,Control,Not applicable,8.4
+NLCG0246,Anambra,South East,Urban,80,Male,Secondary,Agriculture,Never,No,Never,No,No,High,30.9,No,No,Case,III,153.3
+NLCG0247,Kaduna,North West,Rural,81,Female,None,Trading,Never,No,Never,No,No,Moderate,20.1,Yes,No,Control,Not applicable,15.6
+NLCG0248,Kano,North West,Urban,74,Female,Primary,Trading,Never,No,Never,No,No,Moderate,17.8,No,No,Control,Not applicable,13.0
+NLCG0249,Akwa Ibom,South South,Urban,70,Female,Secondary,Skilled manual,Never,No,Never,No,No,Low,27.8,Yes,No,Control,Not applicable,14.8
+NLCG0250,Kogi,North Central,Rural,44,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,31.1,No,No,Control,Not applicable,6.7
+NLCG0251,Akwa Ibom,South South,Urban,50,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,29.4,No,No,Case,IV,386.5
+NLCG0252,Sokoto,North West,Rural,61,Male,Primary,Agriculture,Never,No,Never,No,No,High,28.5,No,No,Control,Not applicable,9.0
+NLCG0253,Adamawa,North East,Urban,47,Male,Secondary,Agriculture,Former,No,Current,No,No,Moderate,37.3,No,Yes,Control,Not applicable,21.8
+NLCG0254,Bayelsa,South South,Urban,33,Male,None,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,17.5,No,No,Control,Not applicable,8.7
+NLCG0255,Oyo,South West,Rural,66,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,High,27.9,No,No,Control,Not applicable,6.5
+NLCG0256,Jigawa,North West,Rural,57,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,30.4,No,No,Control,Not applicable,6.5
+NLCG0257,Bayelsa,South South,Rural,57,Female,Primary,Civil service,Never,No,Current,No,No,High,28.3,No,No,Control,Not applicable,12.0
+NLCG0258,Edo,South South,Rural,52,Male,Primary,Skilled manual,Never,No,Never,No,No,Moderate,24.3,No,No,Control,Not applicable,11.4
+NLCG0259,Oyo,South West,Urban,54,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,23.1,No,No,Control,Not applicable,5.3
+NLCG0260,Ekiti,South West,Rural,36,Female,Primary,Skilled manual,Never,No,Current,No,No,Moderate,26.4,No,No,Case,I,99.6
+NLCG0261,Borno,North East,Rural,53,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,27.1,No,No,Control,Not applicable,8.2
+NLCG0262,Plateau,North Central,Urban,64,Female,Primary,Civil service,Never,No,Former,No,No,Moderate,22.9,No,No,Control,Not applicable,5.7
+NLCG0263,Oyo,South West,Urban,36,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,25.2,No,No,Control,Not applicable,12.1
+NLCG0264,Borno,North East,Urban,42,Male,Tertiary,Skilled manual,Never,No,Current,No,No,High,15.7,No,No,Control,Not applicable,5.3
+NLCG0265,FCT,North Central,Rural,60,Male,Tertiary,Skilled manual,Former,No,Never,No,No,Moderate,21.9,No,No,Control,Not applicable,7.4
+NLCG0266,Ebonyi,South East,Rural,42,Male,Secondary,Agriculture,Never,No,Never,No,No,High,18.0,No,No,Control,Not applicable,10.3
+NLCG0267,Zamfara,North West,Urban,43,Female,Primary,Civil service,Never,No,Never,No,No,Moderate,30.8,Yes,No,Control,Not applicable,7.3
+NLCG0268,Imo,South East,Urban,54,Male,None,Trading,Never,No,Current,No,No,Moderate,32.0,No,No,Control,Not applicable,16.6
+NLCG0269,Ebonyi,South East,Rural,26,Male,Secondary,Agriculture,Never,No,Never,No,No,Moderate,25.7,No,No,Control,Not applicable,7.8
+NLCG0270,Kaduna,North West,Rural,81,Female,None,Unemployed/Retired,Never,No,Never,No,No,High,25.1,No,Yes,Control,Not applicable,12.3
+NLCG0271,FCT,North Central,Urban,61,Male,None,Skilled manual,Never,No,Never,No,No,Moderate,29.8,No,No,Control,Not applicable,7.9
+NLCG0272,Kaduna,North West,Rural,53,Female,Primary,Trading,Current,No,Never,No,No,Moderate,33.7,No,No,Control,Not applicable,10.4
+NLCG0273,FCT,North Central,Rural,56,Female,Secondary,Civil service,Never,No,Current,Yes,Yes,Moderate,28.1,Yes,No,Case,IV,204.0
+NLCG0274,Kebbi,North West,Rural,69,Male,Secondary,Trading,Former,No,Former,No,No,Low,24.6,No,No,Control,Not applicable,16.0
+NLCG0275,Gombe,North East,Urban,22,Male,Tertiary,Agriculture,Never,No,Current,No,No,High,24.3,No,No,Control,Not applicable,16.1
+NLCG0276,Yobe,North East,Rural,20,Male,Primary,Skilled manual,Current,No,Current,No,No,Low,33.6,No,No,Control,Not applicable,8.0
+NLCG0277,FCT,North Central,Urban,43,Male,Primary,Trading,Never,No,Never,Yes,No,Moderate,32.4,No,Yes,Control,Not applicable,7.3
+NLCG0278,Yobe,North East,Urban,41,Male,Tertiary,Agriculture,Never,No,Current,No,No,Moderate,28.6,No,No,Control,Not applicable,19.1
+NLCG0279,Kaduna,North West,Rural,43,Female,None,Agriculture,Never,No,Never,No,No,Low,27.6,No,No,Control,Not applicable,5.5
+NLCG0280,Benue,North Central,Urban,56,Male,Tertiary,Civil service,Never,No,Former,No,No,Low,28.2,No,No,Control,Not applicable,19.3
+NLCG0281,Kaduna,North West,Rural,72,Female,Secondary,Agriculture,Never,No,Former,Yes,No,High,18.7,Yes,No,Control,Not applicable,8.3
+NLCG0282,Kaduna,North West,Urban,60,Male,Secondary,Trading,Never,No,Never,No,No,Low,26.7,No,No,Control,Not applicable,10.2
+NLCG0283,Cross River,South South,Urban,52,Female,Tertiary,Unemployed/Retired,Never,No,Current,No,No,Moderate,26.3,Yes,No,Control,Not applicable,4.8
+NLCG0284,Ebonyi,South East,Urban,43,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,29.2,No,No,Control,Not applicable,12.0
+NLCG0285,Ebonyi,South East,Rural,53,Female,Tertiary,Civil service,Never,No,Current,No,No,Moderate,18.6,No,No,Control,Not applicable,13.8
+NLCG0286,Lagos,South West,Urban,29,Male,None,Trading,Never,No,Current,No,No,Moderate,24.5,No,No,Control,Not applicable,20.2
+NLCG0287,Zamfara,North West,Rural,41,Female,Primary,Trading,Never,No,Current,No,No,Low,21.3,Yes,No,Control,Not applicable,4.9
+NLCG0288,Edo,South South,Urban,35,Female,Secondary,Unemployed/Retired,Current,No,Never,No,No,Moderate,25.5,No,No,Control,Not applicable,6.7
+NLCG0289,Ondo,South West,Urban,82,Female,None,Skilled manual,Never,No,Current,No,No,Moderate,31.0,Yes,No,Control,Not applicable,11.5
+NLCG0290,Ondo,South West,Urban,18,Female,Secondary,Trading,Never,No,Current,No,No,Low,32.3,No,No,Control,Not applicable,7.4
+NLCG0291,Abia,South East,Urban,67,Male,Secondary,Civil service,Never,No,Never,No,Yes,Low,28.5,No,No,Control,Not applicable,12.2
+NLCG0292,Kaduna,North West,Urban,73,Male,None,Unemployed/Retired,Never,No,Never,No,No,Moderate,35.7,No,No,Case,II,96.3
+NLCG0293,Ebonyi,South East,Urban,38,Male,Tertiary,Trading,Never,No,Never,No,No,Low,28.5,No,No,Control,Not applicable,11.6
+NLCG0294,Edo,South South,Rural,78,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,24.9,Yes,No,Control,Not applicable,13.2
+NLCG0295,Zamfara,North West,Rural,44,Male,Tertiary,Skilled manual,Never,No,Never,No,No,High,21.6,No,No,Control,Not applicable,14.6
+NLCG0296,Akwa Ibom,South South,Rural,25,Male,None,Agriculture,Never,No,Former,No,No,Moderate,22.4,No,No,Control,Not applicable,8.2
+NLCG0297,Edo,South South,Rural,49,Male,None,Professional,Current,No,Current,No,No,Moderate,27.3,No,No,Control,Not applicable,10.8
+NLCG0298,Oyo,South West,Urban,66,Male,None,Civil service,Never,No,Current,No,Yes,Low,32.0,No,No,Case,IV,54.9
+NLCG0299,Edo,South South,Rural,29,Male,None,Agriculture,Never,No,Never,No,No,Low,23.5,No,No,Control,Not applicable,14.4
+NLCG0300,Cross River,South South,Rural,67,Female,None,Professional,Current,No,Never,No,No,Low,26.1,No,No,Control,Not applicable,7.7
+NLCG0301,Kano,North West,Urban,54,Male,None,Trading,Never,No,Never,No,No,Moderate,26.2,No,No,Control,Not applicable,7.1
+NLCG0302,Kaduna,North West,Urban,57,Male,Tertiary,Agriculture,Never,No,Never,No,No,Low,28.6,No,No,Control,Not applicable,12.5
+NLCG0303,Ebonyi,South East,Urban,82,Female,Primary,Civil service,Never,No,Never,No,No,Moderate,24.7,No,No,Control,Not applicable,10.7
+NLCG0304,Oyo,South West,Urban,37,Male,Tertiary,Professional,Never,Yes,Former,No,No,Moderate,30.8,No,No,Case,II,68.3
+NLCG0305,Delta,South South,Rural,49,Male,None,Agriculture,Current,No,Never,No,No,High,28.6,No,No,Control,Not applicable,12.0
+NLCG0306,FCT,North Central,Urban,51,Female,Primary,Skilled manual,Never,No,Never,No,No,Moderate,26.4,No,No,Control,Not applicable,9.1
+NLCG0307,Gombe,North East,Rural,55,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,33.7,No,No,Control,Not applicable,15.4
+NLCG0308,Kwara,North Central,Urban,50,Male,None,Professional,Never,No,Current,No,No,High,30.8,No,No,Control,Not applicable,8.5
+NLCG0309,Bauchi,North East,Rural,30,Male,None,Agriculture,Never,No,Former,No,Yes,Low,19.0,No,No,Control,Not applicable,9.6
+NLCG0310,Kwara,North Central,Urban,57,Male,Primary,Trading,Never,No,Never,No,No,Moderate,24.2,No,No,Control,Not applicable,6.9
+NLCG0311,Ebonyi,South East,Urban,57,Female,Secondary,Civil service,Never,No,Former,No,No,High,26.5,No,No,Control,Not applicable,26.5
+NLCG0312,Delta,South South,Rural,68,Male,Primary,Unemployed/Retired,Never,No,Current,No,No,Low,29.8,No,No,Control,Not applicable,6.9
+NLCG0313,Yobe,North East,Rural,35,Female,None,Unemployed/Retired,Never,Yes,Current,No,No,Moderate,16.4,No,No,Control,Not applicable,8.8
+NLCG0314,FCT,North Central,Rural,50,Female,Secondary,Civil service,Never,Yes,Never,No,No,Low,21.3,No,No,Control,Not applicable,6.4
+NLCG0315,Taraba,North East,Urban,48,Female,None,Agriculture,Never,No,Never,No,No,Moderate,25.9,No,No,Control,Not applicable,6.2
+NLCG0316,Ebonyi,South East,Rural,18,Female,Primary,Unemployed/Retired,Never,Yes,Current,No,No,Moderate,20.1,No,No,Control,Not applicable,24.8
+NLCG0317,Nasarawa,North Central,Urban,57,Female,Tertiary,Trading,Never,Yes,Never,No,No,Low,19.4,No,No,Control,Not applicable,7.3
+NLCG0318,Cross River,South South,Rural,30,Female,None,Trading,Never,No,Never,Yes,No,Low,27.5,No,No,Control,Not applicable,21.0
+NLCG0319,Ogun,South West,Rural,52,Male,Primary,Trading,Never,No,Current,No,No,Moderate,17.1,No,No,Control,Not applicable,4.7
+NLCG0320,Kogi,North Central,Rural,33,Female,Secondary,Civil service,Never,No,Never,No,No,Low,21.0,No,Yes,Control,Not applicable,22.8
+NLCG0321,Kwara,North Central,Rural,37,Male,Primary,Agriculture,Former,No,Former,Yes,No,High,27.6,No,No,Case,IV,468.0
+NLCG0322,Edo,South South,Rural,66,Male,Tertiary,Unemployed/Retired,Never,No,Never,Yes,No,High,16.5,No,No,Control,Not applicable,8.2
+NLCG0323,Cross River,South South,Urban,73,Female,Secondary,Professional,Current,No,Former,No,No,Moderate,37.0,Yes,No,Control,Not applicable,10.3
+NLCG0324,Lagos,South West,Rural,42,Male,Primary,Unemployed/Retired,Never,Yes,Never,No,No,Low,33.7,No,No,Control,Not applicable,11.1
+NLCG0325,Rivers,South South,Rural,50,Female,Secondary,Skilled manual,Never,No,Never,No,No,Low,21.7,No,No,Control,Not applicable,13.5
+NLCG0326,Kebbi,North West,Urban,31,Male,Tertiary,Unemployed/Retired,Never,No,Current,No,No,Low,27.9,No,No,Control,Not applicable,8.9
+NLCG0327,Sokoto,North West,Urban,58,Male,Tertiary,Professional,Never,No,Never,No,No,Low,30.5,No,No,Control,Not applicable,26.1
+NLCG0328,Oyo,South West,Urban,18,Male,None,Unemployed/Retired,Never,No,Former,No,No,Moderate,27.3,No,No,Control,Not applicable,12.0
+NLCG0329,Abia,South East,Urban,78,Male,Tertiary,Civil service,Never,No,Current,No,No,High,29.1,No,No,Control,Not applicable,7.3
+NLCG0330,FCT,North Central,Urban,38,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,15,No,No,Control,Not applicable,7.5
+NLCG0331,Rivers,South South,Urban,25,Female,Secondary,Trading,Never,No,Current,No,No,Moderate,29.9,No,No,Case,I,91.1
+NLCG0332,Anambra,South East,Rural,58,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,24.9,No,No,Control,Not applicable,6.3
+NLCG0333,Plateau,North Central,Rural,45,Female,None,Agriculture,Never,No,Current,No,No,Low,21.5,No,Yes,Control,Not applicable,13.7
+NLCG0334,Akwa Ibom,South South,Urban,51,Male,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,21.1,No,No,Control,Not applicable,4.5
+NLCG0335,Kogi,North Central,Urban,56,Male,Tertiary,Unemployed/Retired,Never,No,Former,No,No,High,32.7,No,No,Control,Not applicable,10.4
+NLCG0336,Ogun,South West,Rural,55,Female,None,Skilled manual,Never,No,Never,No,No,Low,19.6,No,No,Control,Not applicable,18.9
+NLCG0337,Plateau,North Central,Rural,36,Female,Tertiary,Agriculture,Former,No,Never,No,No,Moderate,24.9,No,No,Control,Not applicable,6.8
+NLCG0338,Rivers,South South,Urban,32,Male,Tertiary,Civil service,Never,No,Never,No,No,Low,20.8,No,No,Control,Not applicable,12.3
+NLCG0339,Ondo,South West,Urban,54,Female,Tertiary,Trading,Never,No,Former,No,No,Low,29.8,No,No,Control,Not applicable,7.8
+NLCG0340,Lagos,South West,Urban,51,Female,Tertiary,Professional,Never,No,Current,No,No,Moderate,30.3,No,No,Control,Not applicable,18.2
+NLCG0341,Cross River,South South,Rural,61,Female,Primary,Trading,Never,No,Never,No,No,High,15.9,No,No,Control,Not applicable,17.4
+NLCG0342,Osun,South West,Urban,75,Female,Primary,Agriculture,Never,No,Never,No,No,High,34.4,No,No,Control,Not applicable,11.0
+NLCG0343,Sokoto,North West,Urban,40,Male,Secondary,Agriculture,Never,No,Current,No,No,High,22.9,No,No,Case,IV,458.6
+NLCG0344,Ebonyi,South East,Rural,43,Male,Primary,Professional,Never,No,Current,No,No,Moderate,25.1,No,No,Control,Not applicable,13.7
+NLCG0345,Enugu,South East,Urban,50,Male,Secondary,Civil service,Current,No,Former,No,No,Low,32.1,No,No,Control,Not applicable,11.9
+NLCG0346,Rivers,South South,Urban,50,Female,Secondary,Trading,Never,No,Never,No,No,High,31.2,No,No,Control,Not applicable,7.6
+NLCG0347,Edo,South South,Rural,38,Female,Secondary,Civil service,Never,No,Never,No,No,High,22.3,No,No,Control,Not applicable,5.9
+NLCG0348,Lagos,South West,Urban,55,Male,None,Skilled manual,Current,No,Never,No,No,Moderate,27.8,No,No,Control,Not applicable,8.6
+NLCG0349,Nasarawa,North Central,Rural,56,Male,None,Trading,Never,No,Current,No,No,Low,27.1,No,No,Control,Not applicable,4.9
+NLCG0350,Enugu,South East,Rural,39,Male,Secondary,Trading,Never,No,Current,No,No,Low,22.0,No,No,Control,Not applicable,26.1
+NLCG0351,Ekiti,South West,Urban,35,Male,Tertiary,Trading,Never,Yes,Never,No,No,Moderate,29.5,No,No,Control,Not applicable,4.5
+NLCG0352,Bayelsa,South South,Rural,44,Male,None,Agriculture,Former,No,Current,Yes,No,Moderate,26.3,No,No,Control,Not applicable,17.3
+NLCG0353,Sokoto,North West,Rural,81,Female,Secondary,Unemployed/Retired,Former,No,Current,No,No,Low,36.7,No,No,Case,III,131.3
+NLCG0354,Niger,North Central,Rural,66,Female,Primary,Professional,Never,No,Current,No,No,Moderate,30.9,No,No,Control,Not applicable,8.7
+NLCG0355,Kwara,North Central,Rural,49,Female,Primary,Civil service,Never,No,Never,No,No,Low,15,No,Yes,Control,Not applicable,9.1
+NLCG0356,FCT,North Central,Urban,59,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,High,32.6,No,No,Control,Not applicable,5.4
+NLCG0357,Adamawa,North East,Rural,64,Female,Tertiary,Skilled manual,Never,No,Former,No,No,Moderate,15,No,No,Control,Not applicable,7.3
+NLCG0358,Akwa Ibom,South South,Rural,60,Male,Primary,Agriculture,Never,No,Never,No,No,Moderate,15,No,No,Control,Not applicable,9.4
+NLCG0359,Lagos,South West,Urban,58,Female,None,Trading,Never,No,Never,No,No,High,20.2,No,No,Control,Not applicable,10.0
+NLCG0360,Cross River,South South,Urban,18,Female,Secondary,Agriculture,Never,No,Never,No,No,High,27.6,No,No,Control,Not applicable,6.6
+NLCG0361,Lagos,South West,Rural,64,Male,Primary,Civil service,Never,No,Current,No,No,Moderate,26.8,No,No,Control,Not applicable,17.1
+NLCG0362,Ogun,South West,Rural,18,Female,Primary,Trading,Never,Yes,Never,No,No,Moderate,25.7,No,No,Control,Not applicable,3.1
+NLCG0363,Borno,North East,Urban,37,Male,Secondary,Trading,Former,No,Current,No,No,Moderate,23.9,No,No,Control,Not applicable,5.6
+NLCG0364,Zamfara,North West,Urban,39,Male,Primary,Professional,Never,No,Current,No,Yes,Low,34.9,No,No,Control,Not applicable,8.8
+NLCG0365,Ebonyi,South East,Rural,41,Male,Primary,Civil service,Never,No,Never,No,No,Moderate,27.7,No,No,Control,Not applicable,15.2
+NLCG0366,Lagos,South West,Urban,53,Male,Secondary,Agriculture,Never,No,Current,No,No,Low,22.0,No,No,Control,Not applicable,9.5
+NLCG0367,Adamawa,North East,Rural,51,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,31.1,No,Yes,Control,Not applicable,8.9
+NLCG0368,Delta,South South,Rural,50,Male,None,Agriculture,Never,No,Current,No,No,Moderate,28.0,No,No,Control,Not applicable,13.8
+NLCG0369,Kaduna,North West,Rural,50,Male,None,Trading,Never,No,Current,No,No,High,22.8,No,No,Control,Not applicable,22.9
+NLCG0370,Kaduna,North West,Rural,76,Female,Tertiary,Unemployed/Retired,Former,No,Current,No,No,Low,24.6,No,No,Case,III,370.0
+NLCG0371,Kwara,North Central,Rural,60,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,26.3,No,No,Control,Not applicable,6.0
+NLCG0372,Kaduna,North West,Rural,52,Female,Primary,Unemployed/Retired,Never,No,Current,Yes,No,Moderate,33.9,No,No,Control,Not applicable,26.8
+NLCG0373,Plateau,North Central,Rural,30,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,31.4,No,No,Control,Not applicable,7.4
+NLCG0374,Lagos,South West,Rural,77,Female,Secondary,Skilled manual,Never,No,Current,No,Yes,Moderate,24.3,No,No,Control,Not applicable,8.2
+NLCG0375,Ogun,South West,Rural,74,Female,None,Trading,Never,No,Current,Yes,No,Moderate,24.3,Yes,No,Control,Not applicable,9.9
+NLCG0376,Adamawa,North East,Rural,46,Female,Secondary,Professional,Never,No,Never,No,Yes,Low,23.0,No,Yes,Case,I,81.4
+NLCG0377,Edo,South South,Rural,40,Male,Primary,Trading,Never,No,Never,No,No,Moderate,21.2,No,No,Control,Not applicable,11.3
+NLCG0378,Lagos,South West,Rural,28,Female,Primary,Trading,Current,No,Current,No,Yes,Low,33.1,No,No,Control,Not applicable,9.3
+NLCG0379,Kaduna,North West,Rural,70,Female,None,Unemployed/Retired,Current,No,Never,No,No,Moderate,30.4,No,No,Control,Not applicable,11.8
+NLCG0380,Abia,South East,Rural,20,Female,Primary,Skilled manual,Never,No,Never,Yes,No,Moderate,24.1,No,No,Control,Not applicable,8.7
+NLCG0381,Ogun,South West,Rural,39,Female,Primary,Skilled manual,Never,No,Never,No,No,Moderate,20.3,No,No,Control,Not applicable,6.8
+NLCG0382,Ondo,South West,Urban,53,Male,Primary,Civil service,Never,No,Former,No,No,Moderate,37.7,No,No,Control,Not applicable,6.7
+NLCG0383,Ogun,South West,Urban,24,Female,Primary,Trading,Never,No,Never,No,No,High,28.5,No,Yes,Control,Not applicable,5.8
+NLCG0384,Ekiti,South West,Urban,40,Male,Primary,Trading,Never,No,Never,No,No,Moderate,28.9,No,No,Control,Not applicable,9.3
+NLCG0385,Kano,North West,Rural,41,Female,Primary,Trading,Never,No,Current,No,No,Moderate,24.2,No,No,Control,Not applicable,21.7
+NLCG0386,Imo,South East,Urban,18,Female,Secondary,Agriculture,Former,No,Never,Yes,No,Moderate,29.3,No,No,Control,Not applicable,6.6
+NLCG0387,Plateau,North Central,Urban,31,Female,Tertiary,Professional,Never,No,Never,No,No,Moderate,24.4,No,No,Control,Not applicable,18.1
+NLCG0388,Bauchi,North East,Rural,52,Male,Primary,Unemployed/Retired,Never,Yes,Current,No,No,Moderate,24.4,No,No,Control,Not applicable,8.9
+NLCG0389,Oyo,South West,Urban,68,Male,Tertiary,Civil service,Never,No,Current,No,No,Low,20.6,No,No,Case,III,115.7
+NLCG0390,Ogun,South West,Rural,57,Female,Secondary,Civil service,Former,No,Never,No,No,High,26.3,Yes,No,Control,Not applicable,6.4
+NLCG0391,Anambra,South East,Rural,35,Male,Secondary,Trading,Never,No,Never,No,No,Moderate,29.8,No,No,Control,Not applicable,16.9
+NLCG0392,Osun,South West,Urban,43,Female,Secondary,Skilled manual,Never,No,Never,No,No,High,27.3,No,No,Control,Not applicable,13.4
+NLCG0393,Akwa Ibom,South South,Rural,68,Male,Secondary,Agriculture,Never,No,Never,No,No,Moderate,33.3,No,No,Control,Not applicable,16.2
+NLCG0394,Akwa Ibom,South South,Rural,56,Male,Tertiary,Trading,Never,No,Current,Yes,No,Moderate,27.3,No,Yes,Control,Not applicable,5.6
+NLCG0395,Lagos,South West,Urban,49,Male,Secondary,Trading,Never,No,Former,Yes,No,High,25.8,No,No,Control,Not applicable,17.7
+NLCG0396,Nasarawa,North Central,Rural,61,Female,Tertiary,Trading,Never,No,Never,No,No,Moderate,24.3,No,No,Control,Not applicable,8.0
+NLCG0397,Plateau,North Central,Urban,67,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,33.2,No,No,Control,Not applicable,11.7
+NLCG0398,Rivers,South South,Urban,38,Male,Tertiary,Skilled manual,Never,No,Former,No,No,High,20.9,No,No,Control,Not applicable,13.3
+NLCG0399,Kwara,North Central,Urban,34,Male,Secondary,Trading,Never,Yes,Never,No,No,Moderate,28.4,No,No,Control,Not applicable,17.9
+NLCG0400,Ondo,South West,Rural,35,Male,Secondary,Civil service,Former,No,Current,Yes,No,Low,28.0,No,No,Control,Not applicable,4.1
+NLCG0401,Rivers,South South,Rural,72,Female,None,Trading,Never,No,Current,No,No,High,33.2,No,No,Control,Not applicable,8.5
+NLCG0402,Yobe,North East,Rural,41,Male,Primary,Agriculture,Never,No,Current,No,No,Moderate,22.6,No,No,Case,II,104.3
+NLCG0403,Kebbi,North West,Urban,52,Female,None,Unemployed/Retired,Never,No,Never,Yes,No,High,17.2,No,No,Case,III,105.9
+NLCG0404,Kano,North West,Rural,60,Female,None,Skilled manual,Never,No,Former,Yes,No,Low,26.9,No,Yes,Control,Not applicable,4.7
+NLCG0405,Nasarawa,North Central,Rural,53,Male,None,Professional,Never,No,Current,No,No,Low,19.8,No,No,Control,Not applicable,5.7
+NLCG0406,Bayelsa,South South,Urban,59,Female,Secondary,Unemployed/Retired,Current,No,Never,No,No,Low,27.4,No,No,Control,Not applicable,7.1
+NLCG0407,Borno,North East,Rural,52,Male,None,Trading,Never,No,Never,No,No,High,32.6,No,No,Control,Not applicable,13.1
+NLCG0408,Yobe,North East,Rural,24,Female,None,Unemployed/Retired,Never,No,Current,No,No,Low,29.9,No,No,Control,Not applicable,9.5
+NLCG0409,Plateau,North Central,Urban,44,Male,Primary,Skilled manual,Never,No,Current,Yes,No,Moderate,33.6,No,No,Control,Not applicable,15.6
+NLCG0410,Kogi,North Central,Urban,55,Male,Secondary,Agriculture,Never,No,Former,No,No,High,27.8,No,No,Control,Not applicable,9.2
+NLCG0411,Oyo,South West,Urban,63,Female,Secondary,Civil service,Never,No,Never,No,No,Moderate,28.5,No,No,Control,Not applicable,31.4
+NLCG0412,Niger,North Central,Rural,28,Male,Tertiary,Skilled manual,Current,No,Current,No,No,Moderate,24.8,Yes,No,Control,Not applicable,6.9
+NLCG0413,Delta,South South,Urban,62,Female,Primary,Unemployed/Retired,Never,No,Never,No,No,Moderate,40.2,No,No,Case,II,6.7
+NLCG0414,Ebonyi,South East,Urban,60,Female,Secondary,Unemployed/Retired,Never,No,Former,No,No,Moderate,26.8,No,No,Control,Not applicable,6.7
+NLCG0415,Yobe,North East,Urban,73,Male,Primary,Skilled manual,Never,No,Current,Yes,No,Low,21.4,Yes,No,Case,III,40.1
+NLCG0416,Akwa Ibom,South South,Urban,29,Male,Primary,Professional,Never,No,Never,Yes,No,Moderate,16.6,Yes,No,Control,Not applicable,13.0
+NLCG0417,Kogi,North Central,Rural,48,Female,None,Skilled manual,Never,No,Former,No,No,Low,20.1,No,No,Control,Not applicable,10.3
+NLCG0418,Jigawa,North West,Urban,31,Female,Primary,Trading,Never,Yes,Current,No,No,Moderate,25.2,No,Yes,Control,Not applicable,6.4
+NLCG0419,Zamfara,North West,Rural,69,Female,Primary,Civil service,Never,No,Never,No,Yes,Low,24.0,No,No,Control,Not applicable,15.6
+NLCG0420,Edo,South South,Rural,46,Female,None,Skilled manual,Never,No,Never,No,No,Moderate,23.9,No,No,Control,Not applicable,8.1
+NLCG0421,Kogi,North Central,Rural,48,Female,None,Professional,Never,No,Current,No,No,Moderate,30.3,No,No,Control,Not applicable,14.0
+NLCG0422,Benue,North Central,Rural,38,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,24.5,No,No,Control,Not applicable,10.3
+NLCG0423,Kaduna,North West,Rural,53,Male,Secondary,Skilled manual,Never,No,Never,Yes,No,Low,23.1,No,No,Control,Not applicable,12.3
+NLCG0424,Enugu,South East,Rural,44,Female,None,Trading,Never,No,Never,No,No,High,16.9,No,No,Control,Not applicable,14.0
+NLCG0425,Kaduna,North West,Urban,55,Male,Primary,Skilled manual,Never,No,Never,No,No,Low,21.2,Yes,No,Case,III,679.6
+NLCG0426,Kaduna,North West,Urban,39,Female,Secondary,Trading,Former,No,Current,No,No,Low,25.3,No,Yes,Control,Not applicable,6.8
+NLCG0427,Oyo,South West,Urban,65,Male,Secondary,Skilled manual,Current,No,Former,No,No,Low,29.3,No,No,Control,Not applicable,6.4
+NLCG0428,Nasarawa,North Central,Rural,56,Female,Primary,Professional,Never,No,Never,No,No,Low,15,No,No,Control,Not applicable,11.8
+NLCG0429,Benue,North Central,Rural,38,Male,None,Professional,Former,No,Never,No,No,Moderate,25.6,No,No,Control,Not applicable,6.1
+NLCG0430,Plateau,North Central,Rural,33,Male,Primary,Trading,Never,No,Current,Yes,Yes,Low,22.3,No,No,Control,Not applicable,11.0
+NLCG0431,Adamawa,North East,Urban,28,Female,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,28.6,No,No,Control,Not applicable,10.0
+NLCG0432,Kano,North West,Urban,53,Female,Tertiary,Unemployed/Retired,Never,No,Never,Yes,No,Low,29.4,No,No,Control,Not applicable,4.3
+NLCG0433,Katsina,North West,Rural,70,Female,None,Trading,Never,No,Former,No,No,Low,23.6,No,No,Control,Not applicable,8.0
+NLCG0434,Ogun,South West,Rural,49,Male,Tertiary,Skilled manual,Current,No,Never,No,No,Moderate,16.5,No,No,Control,Not applicable,7.9
+NLCG0435,Gombe,North East,Rural,82,Male,Primary,Civil service,Never,Yes,Never,No,Yes,Moderate,15,No,No,Case,III,174.0
+NLCG0436,Plateau,North Central,Urban,44,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Moderate,23.4,No,No,Control,Not applicable,26.9
+NLCG0437,Taraba,North East,Rural,57,Female,None,Agriculture,Never,No,Current,No,No,Low,23.5,No,No,Control,Not applicable,7.8
+NLCG0438,Oyo,South West,Rural,58,Male,Secondary,Unemployed/Retired,Never,Yes,Never,No,No,Low,27.8,No,No,Case,III,205.0
+NLCG0439,Oyo,South West,Urban,53,Male,Tertiary,Agriculture,Never,No,Current,No,Yes,Low,33.6,No,No,Control,Not applicable,9.1
+NLCG0440,Enugu,South East,Rural,41,Male,Secondary,Agriculture,Never,No,Never,No,No,Low,26.5,No,No,Control,Not applicable,10.0
+NLCG0441,Kogi,North Central,Rural,54,Female,Primary,Trading,Never,No,Never,Yes,No,Moderate,33.5,No,No,Control,Not applicable,5.6
+NLCG0442,Kwara,North Central,Rural,85,Male,None,Skilled manual,Current,No,Former,No,No,Low,24.6,No,No,Control,Not applicable,15.2
+NLCG0443,Jigawa,North West,Rural,45,Female,Secondary,Unemployed/Retired,Never,No,Never,Yes,No,High,25.2,No,No,Control,Not applicable,26.7
+NLCG0444,Oyo,South West,Urban,58,Female,Secondary,Professional,Never,No,Current,Yes,No,High,28.7,No,No,Control,Not applicable,7.5
+NLCG0445,Kaduna,North West,Rural,68,Female,Tertiary,Agriculture,Never,No,Never,No,No,Moderate,34.3,No,No,Control,Not applicable,7.2
+NLCG0446,Ondo,South West,Urban,54,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,High,28.4,No,No,Control,Not applicable,4.1
+NLCG0447,Taraba,North East,Rural,33,Male,Secondary,Trading,Current,No,Never,Yes,No,Low,30.4,No,No,Case,II,63.3
+NLCG0448,Imo,South East,Rural,34,Male,Primary,Agriculture,Never,No,Current,No,No,Moderate,26.9,No,No,Control,Not applicable,13.6
+NLCG0449,Kaduna,North West,Rural,40,Female,Primary,Trading,Never,No,Current,No,No,Moderate,19.2,Yes,No,Control,Not applicable,4.7
+NLCG0450,Abia,South East,Rural,23,Male,Tertiary,Civil service,Never,No,Current,No,No,High,28.4,No,No,Control,Not applicable,4.1
+NLCG0451,Benue,North Central,Urban,31,Female,Primary,Unemployed/Retired,Never,No,Never,No,No,High,21.3,No,No,Control,Not applicable,10.7
+NLCG0452,Osun,South West,Urban,37,Male,Secondary,Agriculture,Current,No,Never,No,No,Low,27.6,No,No,Control,Not applicable,6.0
+NLCG0453,Edo,South South,Rural,61,Male,Primary,Agriculture,Current,No,Never,No,No,Moderate,30.4,No,No,Control,Not applicable,7.4
+NLCG0454,Taraba,North East,Urban,38,Female,Tertiary,Agriculture,Never,No,Current,Yes,No,High,29.3,No,No,Control,Not applicable,14.4
+NLCG0455,Ebonyi,South East,Urban,78,Male,None,Civil service,Former,Yes,Never,No,No,Moderate,28.1,No,No,Case,IV,339.2
+NLCG0456,Kano,North West,Rural,52,Male,None,Unemployed/Retired,Current,No,Current,No,No,Low,20.8,No,No,Control,Not applicable,15.0
+NLCG0457,Osun,South West,Urban,58,Female,None,Unemployed/Retired,Never,No,Current,Yes,No,High,29.6,No,No,Case,III,106.0
+NLCG0458,Gombe,North East,Rural,60,Male,Secondary,Civil service,Never,No,Current,Yes,No,Moderate,16.0,Yes,No,Case,III,455.4
+NLCG0459,Kano,North West,Rural,35,Male,Primary,Agriculture,Current,No,Current,No,No,Low,32.0,No,No,Case,IV,163.6
+NLCG0460,Lagos,South West,Urban,63,Male,Secondary,Skilled manual,Current,No,Never,No,No,Low,19.1,No,No,Control,Not applicable,4.5
+NLCG0461,Kebbi,North West,Rural,68,Female,Primary,Civil service,Never,No,Current,No,No,Moderate,21.3,No,No,Control,Not applicable,12.2
+NLCG0462,Kogi,North Central,Rural,47,Female,None,Skilled manual,Never,No,Never,No,No,Low,20.5,No,No,Control,Not applicable,11.7
+NLCG0463,Ebonyi,South East,Rural,18,Female,Primary,Agriculture,Never,No,Current,No,No,Moderate,19.3,No,No,Control,Not applicable,15.0
+NLCG0464,Gombe,North East,Rural,53,Female,Tertiary,Professional,Never,No,Never,No,No,High,23.0,No,No,Control,Not applicable,4.7
+NLCG0465,Rivers,South South,Urban,55,Male,None,Agriculture,Never,No,Never,Yes,No,Low,33.6,No,Yes,Control,Not applicable,7.5
+NLCG0466,Ogun,South West,Rural,68,Female,Primary,Civil service,Never,No,Current,No,No,Low,31.1,No,No,Control,Not applicable,8.3
+NLCG0467,Lagos,South West,Urban,38,Male,Secondary,Trading,Current,No,Never,No,No,Moderate,30.2,No,Yes,Case,IV,46.4
+NLCG0468,Delta,South South,Urban,67,Female,Tertiary,Professional,Never,No,Never,No,No,Low,23.0,No,No,Control,Not applicable,6.0
+NLCG0469,Plateau,North Central,Urban,67,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,32.1,No,Yes,Control,Not applicable,13.5
+NLCG0470,Adamawa,North East,Rural,34,Female,Secondary,Skilled manual,Never,Yes,Current,Yes,No,Moderate,21.6,No,No,Case,III,316.8
+NLCG0471,Lagos,South West,Urban,68,Male,Secondary,Unemployed/Retired,Never,No,Former,No,No,High,27.0,Yes,No,Control,Not applicable,9.9
+NLCG0472,Ekiti,South West,Rural,37,Male,Primary,Trading,Never,No,Current,Yes,No,Moderate,22.5,No,No,Control,Not applicable,8.8
+NLCG0473,Bauchi,North East,Rural,41,Male,Secondary,Professional,Current,No,Never,Yes,No,Moderate,22.2,No,No,Control,Not applicable,15.8
+NLCG0474,Niger,North Central,Urban,43,Female,Secondary,Trading,Current,No,Never,No,No,High,29.7,No,Yes,Control,Not applicable,12.4
+NLCG0475,Delta,South South,Rural,62,Male,Primary,Agriculture,Never,No,Never,No,No,High,31.6,No,No,Control,Not applicable,9.2
+NLCG0476,Zamfara,North West,Rural,34,Male,None,Agriculture,Never,No,Never,No,No,Low,23.9,No,No,Control,Not applicable,7.9
+NLCG0477,Kaduna,North West,Rural,85,Female,Secondary,Trading,Never,No,Former,Yes,No,High,23.6,Yes,No,Case,IV,106.9
+NLCG0478,Lagos,South West,Rural,85,Male,Primary,Unemployed/Retired,Former,No,Current,Yes,No,Moderate,27.2,No,No,Case,II,42.9
+NLCG0479,Ekiti,South West,Urban,60,Female,Secondary,Trading,Never,No,Current,No,No,Moderate,37.0,No,No,Control,Not applicable,5.6
+NLCG0480,Ogun,South West,Urban,28,Female,None,Professional,Never,No,Current,No,No,Moderate,31.9,No,No,Control,Not applicable,12.5
+NLCG0481,Akwa Ibom,South South,Urban,38,Female,Secondary,Agriculture,Never,No,Never,No,No,High,22.5,No,No,Control,Not applicable,6.0
+NLCG0482,Lagos,South West,Rural,38,Male,Secondary,Trading,Never,No,Never,No,No,Moderate,22.3,No,No,Control,Not applicable,14.0
+NLCG0483,Lagos,South West,Urban,53,Female,Secondary,Skilled manual,Never,No,Current,No,No,High,28.7,No,No,Case,IV,211.9
+NLCG0484,Rivers,South South,Urban,41,Female,Tertiary,Skilled manual,Never,No,Current,No,No,Moderate,18.0,No,No,Control,Not applicable,18.1
+NLCG0485,Taraba,North East,Urban,45,Female,Primary,Civil service,Never,No,Current,No,No,Low,32.8,No,No,Control,Not applicable,13.2
+NLCG0486,Benue,North Central,Rural,74,Male,Primary,Agriculture,Never,No,Never,Yes,No,Low,32.3,No,No,Control,Not applicable,7.1
+NLCG0487,Ekiti,South West,Rural,57,Female,Primary,Trading,Never,No,Never,No,No,Moderate,24.1,No,No,Control,Not applicable,8.7
+NLCG0488,Yobe,North East,Urban,74,Male,Primary,Unemployed/Retired,Never,No,Never,No,No,Moderate,22.9,No,No,Control,Not applicable,4.0
+NLCG0489,Plateau,North Central,Rural,47,Male,Secondary,Civil service,Current,No,Former,No,Yes,Moderate,17.7,No,No,Case,III,1463.2
+NLCG0490,Osun,South West,Urban,49,Female,None,Civil service,Never,No,Never,No,No,High,23.8,No,No,Control,Not applicable,5.7
+NLCG0491,FCT,North Central,Rural,43,Female,None,Professional,Never,No,Current,No,No,Moderate,24.9,No,No,Control,Not applicable,7.1
+NLCG0492,Jigawa,North West,Rural,30,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,35.4,No,No,Control,Not applicable,4.8
+NLCG0493,Oyo,South West,Urban,34,Female,Secondary,Skilled manual,Never,No,Never,No,No,Low,26.8,No,No,Control,Not applicable,6.9
+NLCG0494,Benue,North Central,Urban,64,Male,Secondary,Agriculture,Former,No,Current,No,No,Moderate,23.1,No,No,Control,Not applicable,8.3
+NLCG0495,Anambra,South East,Rural,34,Male,Secondary,Civil service,Current,No,Current,No,No,Low,19.9,No,No,Control,Not applicable,13.4
+NLCG0496,Akwa Ibom,South South,Urban,44,Female,Tertiary,Agriculture,Current,No,Current,No,No,Moderate,21.9,No,No,Control,Not applicable,14.9
+NLCG0497,FCT,North Central,Urban,64,Female,None,Agriculture,Never,No,Never,No,No,Moderate,25.2,No,No,Control,Not applicable,15.0
+NLCG0498,Adamawa,North East,Rural,65,Male,Primary,Trading,Never,Yes,Current,No,No,High,23.3,No,Yes,Control,Not applicable,8.2
+NLCG0499,Bauchi,North East,Urban,44,Male,Secondary,Professional,Never,No,Current,No,No,Low,36.0,No,No,Control,Not applicable,28.6
+NLCG0500,Kwara,North Central,Rural,38,Male,None,Agriculture,Never,No,Never,No,No,Low,30.2,No,No,Control,Not applicable,5.8
+NLCG0501,Borno,North East,Rural,42,Female,Primary,Agriculture,Never,No,Never,No,No,Moderate,27.2,No,Yes,Control,Not applicable,10.1
+NLCG0502,Cross River,South South,Urban,22,Male,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,31.0,No,No,Control,Not applicable,3.1
+NLCG0503,Yobe,North East,Rural,65,Male,Secondary,Civil service,Never,No,Current,No,No,Moderate,24.0,No,No,Control,Not applicable,4.4
+NLCG0504,Kaduna,North West,Rural,52,Female,None,Unemployed/Retired,Never,No,Current,Yes,No,High,19.3,No,No,Control,Not applicable,8.2
+NLCG0505,Gombe,North East,Rural,42,Male,None,Trading,Never,No,Never,No,No,High,28.2,No,Yes,Control,Not applicable,13.5
+NLCG0506,Kaduna,North West,Urban,35,Male,Primary,Agriculture,Never,No,Former,No,No,High,26.3,No,No,Control,Not applicable,20.3
+NLCG0507,Kebbi,North West,Rural,37,Male,None,Civil service,Never,No,Never,No,No,Moderate,31.4,No,No,Control,Not applicable,12.7
+NLCG0508,Adamawa,North East,Urban,31,Male,None,Agriculture,Never,Yes,Never,No,Yes,High,27.1,No,No,Control,Not applicable,5.6
+NLCG0509,Zamfara,North West,Rural,20,Female,Secondary,Skilled manual,Never,No,Never,No,No,Low,23.3,No,No,Control,Not applicable,12.6
+NLCG0510,Nasarawa,North Central,Rural,57,Female,Secondary,Civil service,Never,No,Never,No,No,Moderate,17.7,No,No,Control,Not applicable,15.9
+NLCG0511,Kogi,North Central,Rural,31,Female,None,Agriculture,Never,No,Current,No,Yes,Moderate,21.8,No,No,Control,Not applicable,9.1
+NLCG0512,Bauchi,North East,Rural,44,Female,Primary,Civil service,Never,No,Never,No,No,Low,24.1,No,No,Control,Not applicable,6.1
+NLCG0513,Adamawa,North East,Rural,56,Male,None,Unemployed/Retired,Never,No,Never,No,No,Moderate,35.7,No,No,Control,Not applicable,12.1
+NLCG0514,Niger,North Central,Urban,18,Female,Tertiary,Civil service,Never,No,Never,No,No,High,26.2,No,No,Control,Not applicable,6.1
+NLCG0515,Abia,South East,Urban,61,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Low,21.0,Yes,No,Control,Not applicable,9.5
+NLCG0516,Borno,North East,Rural,39,Male,None,Unemployed/Retired,Never,No,Former,Yes,No,High,22.9,No,No,Control,Not applicable,3.7
+NLCG0517,Ogun,South West,Rural,52,Male,None,Skilled manual,Never,No,Never,No,No,Low,30.3,No,No,Control,Not applicable,8.2
+NLCG0518,Lagos,South West,Urban,34,Female,Primary,Trading,Never,No,Never,No,No,Moderate,28.5,No,No,Control,Not applicable,9.9
+NLCG0519,Akwa Ibom,South South,Rural,48,Male,Primary,Civil service,Never,No,Never,Yes,No,Moderate,19.2,No,No,Case,II,30.2
+NLCG0520,Ekiti,South West,Urban,22,Male,Secondary,Agriculture,Never,No,Current,No,No,Moderate,25.4,No,No,Control,Not applicable,7.7
+NLCG0521,FCT,North Central,Urban,47,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Low,28.7,No,No,Control,Not applicable,4.4
+NLCG0522,Oyo,South West,Urban,69,Female,None,Trading,Never,No,Current,Yes,No,Low,22.8,No,No,Control,Not applicable,15.9
+NLCG0523,Adamawa,North East,Rural,41,Female,Secondary,Civil service,Never,No,Never,No,No,Low,25.8,No,Yes,Control,Not applicable,9.1
+NLCG0524,Taraba,North East,Urban,57,Male,Primary,Agriculture,Never,No,Never,No,Yes,Moderate,35.1,No,No,Control,Not applicable,7.2
+NLCG0525,Kwara,North Central,Rural,40,Female,Primary,Civil service,Never,No,Never,No,No,Low,24.7,No,No,Control,Not applicable,3.4
+NLCG0526,Lagos,South West,Rural,40,Female,None,Trading,Never,No,Never,No,No,Moderate,22.1,No,No,Control,Not applicable,8.2
+NLCG0527,Kano,North West,Urban,44,Female,Tertiary,Professional,Never,No,Never,No,No,Low,26.9,Yes,No,Control,Not applicable,9.2
+NLCG0528,Delta,South South,Rural,38,Female,None,Unemployed/Retired,Never,No,Never,No,No,Low,15,No,No,Control,Not applicable,9.5
+NLCG0529,Kaduna,North West,Rural,48,Male,Secondary,Skilled manual,Never,Yes,Never,No,No,Low,23.4,No,No,Control,Not applicable,7.9
+NLCG0530,Bauchi,North East,Urban,56,Male,Secondary,Skilled manual,Never,Yes,Current,Yes,No,Moderate,33.5,No,No,Control,Not applicable,13.2
+NLCG0531,Kaduna,North West,Rural,18,Male,Primary,Agriculture,Never,No,Never,No,No,High,29.2,No,No,Case,III,156.9
+NLCG0532,Yobe,North East,Urban,52,Female,Secondary,Agriculture,Never,No,Never,No,No,High,28.6,No,No,Control,Not applicable,21.9
+NLCG0533,Sokoto,North West,Urban,49,Female,Tertiary,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,24.0,No,No,Control,Not applicable,19.2
+NLCG0534,Rivers,South South,Urban,41,Male,None,Civil service,Never,No,Former,No,No,Low,30.4,No,Yes,Control,Not applicable,9.2
+NLCG0535,Kaduna,North West,Rural,36,Female,Secondary,Agriculture,Never,No,Former,Yes,No,High,24.9,No,No,Control,Not applicable,12.0
+NLCG0536,Kano,North West,Urban,64,Female,None,Agriculture,Never,No,Never,No,No,Moderate,22.8,No,No,Control,Not applicable,12.4
+NLCG0537,Oyo,South West,Urban,26,Female,Tertiary,Agriculture,Never,No,Never,No,No,High,20.2,No,No,Control,Not applicable,15.0
+NLCG0538,Akwa Ibom,South South,Urban,57,Male,Secondary,Agriculture,Never,No,Current,No,No,High,36.2,No,No,Control,Not applicable,13.4
+NLCG0539,Edo,South South,Rural,53,Female,None,Skilled manual,Never,No,Never,No,No,High,19.2,No,No,Control,Not applicable,8.4
+NLCG0540,Enugu,South East,Rural,61,Male,Secondary,Trading,Never,No,Current,No,No,Moderate,23.9,No,No,Control,Not applicable,6.0
+NLCG0541,Lagos,South West,Urban,54,Male,Secondary,Trading,Never,No,Current,Yes,No,Moderate,35.9,No,No,Control,Not applicable,21.9
+NLCG0542,FCT,North Central,Rural,49,Female,None,Skilled manual,Never,No,Never,Yes,No,Moderate,23.0,No,No,Control,Not applicable,9.7
+NLCG0543,Plateau,North Central,Urban,51,Female,None,Agriculture,Never,No,Never,No,No,Moderate,28.3,No,No,Control,Not applicable,8.2
+NLCG0544,Bauchi,North East,Urban,29,Female,Secondary,Agriculture,Never,No,Never,No,No,High,32.3,No,No,Control,Not applicable,12.2
+NLCG0545,Nasarawa,North Central,Urban,58,Female,Secondary,Trading,Never,Yes,Never,No,No,High,26.4,No,No,Control,Not applicable,12.8
+NLCG0546,Lagos,South West,Urban,71,Female,Tertiary,Unemployed/Retired,Former,Yes,Never,No,No,High,19.1,No,No,Control,Not applicable,9.1
+NLCG0547,Kano,North West,Urban,61,Male,Tertiary,Civil service,Never,No,Never,No,Yes,Moderate,25.5,No,No,Control,Not applicable,10.6
+NLCG0548,Benue,North Central,Rural,49,Female,Primary,Professional,Never,No,Never,No,No,Low,31.4,No,No,Control,Not applicable,8.8
+NLCG0549,Oyo,South West,Urban,35,Male,Tertiary,Civil service,Never,No,Never,No,No,High,30.4,No,No,Control,Not applicable,11.5
+NLCG0550,Lagos,South West,Urban,74,Male,Secondary,Agriculture,Current,No,Never,No,No,High,32.4,No,No,Control,Not applicable,15.6
+NLCG0551,Lagos,South West,Urban,28,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,High,37.1,No,Yes,Case,IV,242.0
+NLCG0552,Niger,North Central,Rural,60,Male,None,Trading,Never,No,Never,No,No,High,22.3,No,No,Control,Not applicable,5.0
+NLCG0553,Katsina,North West,Urban,52,Female,Tertiary,Unemployed/Retired,Never,Yes,Never,No,No,Low,30.6,No,No,Control,Not applicable,6.3
+NLCG0554,Kwara,North Central,Rural,49,Female,Tertiary,Civil service,Never,No,Current,No,No,High,21.5,No,No,Control,Not applicable,7.3
+NLCG0555,Osun,South West,Rural,62,Female,Secondary,Trading,Never,No,Never,No,No,Low,31.9,No,No,Control,Not applicable,9.4
+NLCG0556,Zamfara,North West,Urban,66,Male,Primary,Civil service,Current,No,Current,No,No,High,19.4,No,No,Case,I,11.7
+NLCG0557,Niger,North Central,Urban,63,Male,Primary,Civil service,Never,No,Current,Yes,No,High,20.0,No,No,Case,I,10.7
+NLCG0558,Yobe,North East,Rural,65,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,29.6,Yes,No,Control,Not applicable,12.4
+NLCG0559,Kwara,North Central,Urban,32,Male,Secondary,Civil service,Never,No,Never,No,No,Low,27.2,No,Yes,Control,Not applicable,7.9
+NLCG0560,Bauchi,North East,Urban,85,Male,Secondary,Agriculture,Former,No,Current,No,No,High,31.2,No,No,Case,II,51.9
+NLCG0561,Adamawa,North East,Urban,53,Male,Secondary,Trading,Never,Yes,Current,Yes,No,Moderate,29.6,No,No,Case,III,97.5
+NLCG0562,Lagos,South West,Rural,51,Female,Secondary,Professional,Never,No,Never,No,No,Moderate,22.3,No,Yes,Control,Not applicable,4.9
+NLCG0563,Ondo,South West,Rural,45,Male,None,Civil service,Never,No,Never,No,No,Moderate,29.6,No,No,Control,Not applicable,5.1
+NLCG0564,Kebbi,North West,Urban,41,Male,Primary,Agriculture,Former,No,Never,No,No,High,20.9,No,No,Control,Not applicable,8.5
+NLCG0565,Nasarawa,North Central,Rural,72,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,25.6,No,No,Case,I,50.1
+NLCG0566,Enugu,South East,Rural,31,Female,Secondary,Agriculture,Never,No,Current,No,No,Low,28.1,No,No,Control,Not applicable,6.8
+NLCG0567,Edo,South South,Rural,61,Male,Primary,Civil service,Never,No,Current,No,No,Moderate,23.4,No,No,Control,Not applicable,9.1
+NLCG0568,Edo,South South,Rural,44,Male,Primary,Trading,Never,No,Never,No,No,Low,29.5,No,No,Control,Not applicable,12.7
+NLCG0569,Kwara,North Central,Rural,29,Male,Tertiary,Agriculture,Current,No,Current,No,No,High,23.6,No,No,Control,Not applicable,6.7
+NLCG0570,Taraba,North East,Rural,40,Female,Secondary,Professional,Never,No,Current,No,No,High,21.4,No,No,Control,Not applicable,15.5
+NLCG0571,Ebonyi,South East,Urban,29,Female,Secondary,Professional,Never,No,Never,No,No,Moderate,32.4,No,Yes,Control,Not applicable,5.4
+NLCG0572,Kaduna,North West,Rural,37,Female,Primary,Agriculture,Never,No,Never,No,No,High,21.3,No,No,Control,Not applicable,10.6
+NLCG0573,Borno,North East,Urban,50,Male,Tertiary,Skilled manual,Never,No,Current,No,No,Low,23.6,No,Yes,Control,Not applicable,5.2
+NLCG0574,Cross River,South South,Rural,29,Male,None,Unemployed/Retired,Never,No,Current,No,No,High,29.8,No,No,Control,Not applicable,5.9
+NLCG0575,Nasarawa,North Central,Rural,52,Female,Tertiary,Trading,Never,No,Never,No,No,High,21.0,No,No,Control,Not applicable,8.5
+NLCG0576,Zamfara,North West,Rural,40,Male,Primary,Agriculture,Never,No,Never,No,No,High,26.8,No,No,Control,Not applicable,6.8
+NLCG0577,Borno,North East,Rural,18,Male,Primary,Unemployed/Retired,Never,No,Never,No,No,High,16.4,No,No,Control,Not applicable,11.3
+NLCG0578,Ekiti,South West,Rural,18,Female,None,Skilled manual,Never,Yes,Never,No,No,High,28.6,No,No,Control,Not applicable,12.9
+NLCG0579,Kogi,North Central,Rural,22,Male,Primary,Agriculture,Never,No,Current,No,No,High,36.0,No,No,Case,II,22.7
+NLCG0580,Rivers,South South,Rural,56,Female,Secondary,Agriculture,Never,No,Never,No,No,Low,30.7,No,No,Control,Not applicable,11.7
+NLCG0581,Kaduna,North West,Rural,64,Female,Secondary,Trading,Never,No,Never,No,No,Low,27.8,No,No,Control,Not applicable,7.0
+NLCG0582,Lagos,South West,Urban,57,Male,None,Agriculture,Never,No,Never,No,No,High,30.0,No,No,Control,Not applicable,6.3
+NLCG0583,Sokoto,North West,Urban,39,Female,Secondary,Trading,Never,No,Never,No,No,Low,31.2,No,No,Control,Not applicable,6.8
+NLCG0584,Kano,North West,Rural,42,Female,Secondary,Professional,Never,No,Never,No,No,Moderate,26.8,No,No,Control,Not applicable,13.9
+NLCG0585,Bayelsa,South South,Urban,25,Male,Secondary,Trading,Never,Yes,Former,No,No,Low,28.8,No,No,Control,Not applicable,10.8
+NLCG0586,Rivers,South South,Rural,54,Female,Tertiary,Professional,Never,No,Never,No,No,Moderate,22.3,No,No,Control,Not applicable,10.5
+NLCG0587,Katsina,North West,Urban,43,Male,Secondary,Agriculture,Never,No,Current,No,No,Moderate,23.9,No,No,Control,Not applicable,6.7
+NLCG0588,Delta,South South,Urban,48,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,17.5,No,No,Control,Not applicable,9.3
+NLCG0589,Nasarawa,North Central,Rural,32,Female,None,Civil service,Never,No,Never,No,No,High,34.3,No,No,Case,IV,106.6
+NLCG0590,Anambra,South East,Rural,35,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,23.8,No,No,Control,Not applicable,11.3
+NLCG0591,Anambra,South East,Rural,46,Female,Secondary,Civil service,Never,No,Former,No,No,Low,25.1,No,No,Control,Not applicable,8.8
+NLCG0592,Rivers,South South,Rural,35,Male,None,Agriculture,Never,No,Never,No,No,High,33.5,No,No,Case,III,253.6
+NLCG0593,Ebonyi,South East,Rural,50,Female,None,Professional,Never,No,Never,No,No,Moderate,18.5,No,No,Control,Not applicable,11.7
+NLCG0594,Kano,North West,Urban,73,Female,Tertiary,Skilled manual,Never,No,Current,No,No,High,25.6,No,No,Control,Not applicable,7.2
+NLCG0595,Kaduna,North West,Urban,52,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,High,28.1,No,No,Control,Not applicable,14.5
+NLCG0596,Enugu,South East,Rural,36,Male,Tertiary,Unemployed/Retired,Never,No,Current,No,No,Low,21.4,No,No,Control,Not applicable,7.0
+NLCG0597,Cross River,South South,Rural,49,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,31.6,No,No,Control,Not applicable,9.7
+NLCG0598,Zamfara,North West,Rural,37,Male,Tertiary,Skilled manual,Never,No,Never,No,No,Low,24.3,No,No,Control,Not applicable,5.7
+NLCG0599,Nasarawa,North Central,Rural,51,Male,Secondary,Agriculture,Current,No,Former,No,No,Moderate,15,No,No,Control,Not applicable,17.8
+NLCG0600,FCT,North Central,Urban,58,Female,Secondary,Professional,Never,No,Current,No,No,Low,22.2,No,No,Case,II,166.5
+NLCG0601,Rivers,South South,Urban,77,Male,Tertiary,Professional,Current,No,Never,No,No,High,24.4,Yes,No,Control,Not applicable,4.1
+NLCG0602,Borno,North East,Urban,51,Female,Primary,Agriculture,Never,Yes,Never,No,No,High,23.1,No,No,Control,Not applicable,5.3
+NLCG0603,Kebbi,North West,Urban,47,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Low,21.1,No,No,Control,Not applicable,8.8
+NLCG0604,Abia,South East,Urban,42,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Low,29.5,No,No,Case,IV,223.7
+NLCG0605,Edo,South South,Rural,18,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Low,25.9,No,No,Control,Not applicable,11.7
+NLCG0606,Akwa Ibom,South South,Rural,20,Male,Secondary,Agriculture,Never,No,Former,No,No,Moderate,25.6,No,No,Control,Not applicable,6.9
+NLCG0607,Zamfara,North West,Urban,46,Female,None,Skilled manual,Never,No,Current,No,No,Moderate,31.5,No,No,Control,Not applicable,5.1
+NLCG0608,Nasarawa,North Central,Rural,29,Female,Tertiary,Civil service,Never,No,Current,No,Yes,Moderate,23.8,No,Yes,Control,Not applicable,6.0
+NLCG0609,Zamfara,North West,Rural,30,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,25.7,No,No,Control,Not applicable,5.3
+NLCG0610,Abia,South East,Urban,40,Male,Secondary,Civil service,Current,No,Current,No,No,Low,30.8,No,No,Control,Not applicable,6.6
+NLCG0611,FCT,North Central,Rural,63,Male,Secondary,Skilled manual,Never,No,Current,No,No,Low,31.9,No,No,Control,Not applicable,11.1
+NLCG0612,Lagos,South West,Urban,41,Male,Secondary,Skilled manual,Never,No,Current,No,No,Moderate,21.4,No,No,Control,Not applicable,14.9
+NLCG0613,Ondo,South West,Urban,47,Female,Primary,Civil service,Never,No,Never,Yes,No,High,31.2,No,Yes,Case,II,27.1
+NLCG0614,Ebonyi,South East,Rural,37,Female,Tertiary,Civil service,Former,Yes,Current,No,No,Moderate,35.8,No,No,Control,Not applicable,8.7
+NLCG0615,Kwara,North Central,Rural,38,Male,None,Unemployed/Retired,Never,No,Never,No,No,High,30.9,No,No,Control,Not applicable,3.8
+NLCG0616,Kogi,North Central,Urban,59,Male,Tertiary,Trading,Never,No,Current,Yes,No,High,24.8,No,No,Control,Not applicable,5.4
+NLCG0617,Nasarawa,North Central,Urban,32,Male,Primary,Trading,Never,No,Current,No,No,Moderate,18.7,No,No,Control,Not applicable,8.4
+NLCG0618,Borno,North East,Rural,56,Female,Secondary,Civil service,Never,Yes,Current,No,No,Low,24.2,No,No,Control,Not applicable,10.3
+NLCG0619,Katsina,North West,Urban,60,Female,None,Agriculture,Never,No,Never,No,No,Moderate,31.6,No,Yes,Control,Not applicable,10.2
+NLCG0620,Sokoto,North West,Rural,42,Female,Secondary,Unemployed/Retired,Never,Yes,Former,No,No,Low,22.4,No,No,Control,Not applicable,19.9
+NLCG0621,Kaduna,North West,Rural,42,Male,None,Civil service,Current,No,Former,No,No,High,24.4,No,No,Control,Not applicable,7.1
+NLCG0622,Plateau,North Central,Urban,64,Female,Secondary,Agriculture,Never,No,Never,No,No,High,27.3,No,No,Control,Not applicable,10.2
+NLCG0623,Nasarawa,North Central,Rural,81,Male,Primary,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,20.2,No,No,Control,Not applicable,11.5
+NLCG0624,Yobe,North East,Urban,42,Male,Tertiary,Agriculture,Never,No,Never,No,No,Moderate,26.8,No,No,Control,Not applicable,10.7
+NLCG0625,Oyo,South West,Urban,56,Male,Secondary,Agriculture,Current,No,Never,No,No,Low,28.7,Yes,No,Control,Not applicable,11.6
+NLCG0626,Ogun,South West,Urban,44,Female,Tertiary,Professional,Never,No,Never,No,No,Moderate,28.1,No,No,Control,Not applicable,8.7
+NLCG0627,Rivers,South South,Urban,38,Female,Primary,Trading,Never,No,Never,No,No,Low,22.1,No,No,Control,Not applicable,12.3
+NLCG0628,Cross River,South South,Rural,55,Female,None,Trading,Never,No,Never,No,No,Moderate,17.0,No,No,Control,Not applicable,9.4
+NLCG0629,Anambra,South East,Rural,54,Male,Secondary,Trading,Never,No,Former,Yes,No,Low,34.4,No,No,Control,Not applicable,16.0
+NLCG0630,Kogi,North Central,Rural,34,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,20.6,No,No,Control,Not applicable,7.9
+NLCG0631,Edo,South South,Urban,51,Male,Tertiary,Trading,Never,No,Never,Yes,No,Moderate,27.0,No,No,Control,Not applicable,8.3
+NLCG0632,Adamawa,North East,Rural,47,Male,Tertiary,Skilled manual,Former,No,Never,No,No,Low,21.2,No,No,Case,I,27.6
+NLCG0633,Kogi,North Central,Rural,45,Female,Tertiary,Trading,Never,No,Never,No,No,Low,28.2,No,No,Control,Not applicable,9.7
+NLCG0634,Bauchi,North East,Urban,69,Male,Primary,Unemployed/Retired,Never,No,Former,No,No,Low,29.6,Yes,No,Control,Not applicable,6.4
+NLCG0635,Katsina,North West,Rural,61,Male,Secondary,Skilled manual,Current,No,Current,No,No,Moderate,21.0,No,No,Control,Not applicable,5.8
+NLCG0636,Bayelsa,South South,Urban,55,Female,Tertiary,Skilled manual,Never,No,Current,No,No,High,25.8,No,No,Control,Not applicable,14.7
+NLCG0637,Delta,South South,Rural,52,Female,Primary,Professional,Never,Yes,Never,No,No,Moderate,26.7,No,No,Control,Not applicable,8.0
+NLCG0638,Ondo,South West,Urban,69,Female,Secondary,Unemployed/Retired,Never,No,Former,No,No,Low,31.4,No,No,Control,Not applicable,5.5
+NLCG0639,Kwara,North Central,Urban,37,Male,Primary,Professional,Former,No,Never,No,No,Moderate,20.1,No,No,Control,Not applicable,9.0
+NLCG0640,Ebonyi,South East,Rural,69,Female,Tertiary,Agriculture,Never,No,Former,No,No,High,21.1,No,No,Control,Not applicable,6.1
+NLCG0641,Gombe,North East,Rural,60,Male,Secondary,Unemployed/Retired,Never,Yes,Current,No,No,High,30.6,No,No,Case,III,252.3
+NLCG0642,Sokoto,North West,Urban,37,Male,Secondary,Agriculture,Never,No,Current,No,No,Low,28.1,No,No,Control,Not applicable,14.5
+NLCG0643,Kogi,North Central,Urban,70,Female,None,Unemployed/Retired,Current,No,Never,No,No,Low,24.6,No,No,Control,Not applicable,7.0
+NLCG0644,Rivers,South South,Rural,29,Male,Primary,Trading,Never,No,Current,No,No,Moderate,26.6,No,No,Control,Not applicable,3.7
+NLCG0645,Sokoto,North West,Rural,40,Male,None,Civil service,Never,No,Former,No,No,Low,22.3,No,No,Control,Not applicable,10.9
+NLCG0646,Ogun,South West,Urban,18,Male,Secondary,Skilled manual,Current,No,Former,No,No,Low,22.7,No,No,Control,Not applicable,9.4
+NLCG0647,Anambra,South East,Rural,32,Male,None,Agriculture,Never,No,Former,No,No,Low,22.4,No,No,Control,Not applicable,7.6
+NLCG0648,Anambra,South East,Rural,34,Male,Secondary,Civil service,Never,No,Never,No,No,Low,29.1,No,No,Control,Not applicable,11.4
+NLCG0649,Lagos,South West,Urban,57,Male,Primary,Unemployed/Retired,Never,No,Never,No,No,Low,21.4,No,No,Control,Not applicable,4.5
+NLCG0650,Bayelsa,South South,Rural,45,Male,Secondary,Unemployed/Retired,Never,Yes,Never,No,No,High,36.8,No,Yes,Control,Not applicable,7.1
+NLCG0651,Taraba,North East,Rural,57,Female,Primary,Professional,Never,No,Never,No,No,Moderate,24.8,No,No,Control,Not applicable,13.5
+NLCG0652,Enugu,South East,Rural,42,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,High,21.2,No,No,Control,Not applicable,10.2
+NLCG0653,Bayelsa,South South,Rural,43,Female,Secondary,Civil service,Never,No,Never,No,Yes,Moderate,20.6,Yes,No,Control,Not applicable,9.0
+NLCG0654,Bauchi,North East,Rural,72,Female,None,Agriculture,Never,Yes,Never,No,No,Moderate,26.2,No,No,Control,Not applicable,7.6
+NLCG0655,Jigawa,North West,Urban,27,Female,Primary,Civil service,Never,No,Never,No,No,Moderate,19.4,No,No,Control,Not applicable,9.7
+NLCG0656,Rivers,South South,Urban,64,Female,None,Agriculture,Never,No,Never,No,Yes,High,18.3,No,No,Control,Not applicable,15.7
+NLCG0657,Kebbi,North West,Rural,52,Female,Secondary,Trading,Never,No,Former,No,No,Low,24.5,No,No,Control,Not applicable,7.9
+NLCG0658,Niger,North Central,Urban,65,Male,Primary,Agriculture,Current,No,Never,No,No,High,20.9,No,No,Control,Not applicable,10.6
+NLCG0659,Kano,North West,Rural,60,Female,Secondary,Unemployed/Retired,Never,No,Former,No,No,Low,32.8,No,Yes,Control,Not applicable,11.9
+NLCG0660,Kaduna,North West,Urban,32,Female,Tertiary,Civil service,Never,No,Current,No,No,Moderate,33.8,No,Yes,Control,Not applicable,6.5
+NLCG0661,Kano,North West,Urban,63,Male,Secondary,Agriculture,Never,No,Never,No,No,High,33.7,No,Yes,Control,Not applicable,4.7
+NLCG0662,Gombe,North East,Urban,51,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,24.6,No,No,Control,Not applicable,17.6
+NLCG0663,Kebbi,North West,Rural,54,Male,Primary,Skilled manual,Never,Yes,Current,No,No,Low,21.3,No,No,Control,Not applicable,9.4
+NLCG0664,Abia,South East,Rural,18,Female,None,Unemployed/Retired,Never,No,Current,No,No,High,22.0,No,No,Control,Not applicable,3.0
+NLCG0665,Abia,South East,Rural,54,Male,Primary,Unemployed/Retired,Never,No,Former,No,No,Low,29.1,No,No,Control,Not applicable,5.3
+NLCG0666,Taraba,North East,Urban,63,Male,Secondary,Trading,Never,No,Never,No,No,Moderate,22.9,No,No,Control,Not applicable,4.8
+NLCG0667,Katsina,North West,Rural,26,Male,Secondary,Agriculture,Never,No,Current,No,No,High,28.3,No,No,Control,Not applicable,14.3
+NLCG0668,Sokoto,North West,Rural,38,Female,Secondary,Trading,Never,No,Never,No,No,Low,16.6,No,No,Control,Not applicable,18.8
+NLCG0669,Yobe,North East,Urban,57,Male,Secondary,Agriculture,Current,No,Never,Yes,No,High,33.6,Yes,No,Control,Not applicable,8.5
+NLCG0670,Benue,North Central,Urban,51,Female,Secondary,Civil service,Never,No,Never,No,No,Low,25.2,No,No,Control,Not applicable,4.8
+NLCG0671,Ogun,South West,Rural,42,Male,Primary,Unemployed/Retired,Never,No,Never,No,No,Low,18.6,No,No,Control,Not applicable,11.3
+NLCG0672,Nasarawa,North Central,Urban,60,Male,Tertiary,Trading,Never,No,Current,No,No,Low,30.0,No,No,Control,Not applicable,9.3
+NLCG0673,Osun,South West,Urban,53,Male,Tertiary,Skilled manual,Current,No,Current,No,No,Low,24.9,No,No,Control,Not applicable,26.4
+NLCG0674,Rivers,South South,Rural,42,Male,Primary,Civil service,Never,No,Never,No,No,High,23.2,No,No,Control,Not applicable,6.3
+NLCG0675,Akwa Ibom,South South,Rural,49,Female,Secondary,Civil service,Never,No,Current,No,No,Low,24.9,No,No,Control,Not applicable,13.2
+NLCG0676,Lagos,South West,Urban,41,Female,Secondary,Agriculture,Never,No,Current,No,No,Moderate,21.7,No,No,Control,Not applicable,9.7
+NLCG0677,Bauchi,North East,Rural,57,Female,Primary,Trading,Current,No,Never,No,No,Moderate,28.9,No,No,Control,Not applicable,9.4
+NLCG0678,Rivers,South South,Rural,56,Male,None,Professional,Former,No,Never,No,No,Low,25.8,No,No,Control,Not applicable,10.7
+NLCG0679,Imo,South East,Rural,52,Female,Primary,Agriculture,Never,No,Never,No,No,Moderate,20.7,No,No,Case,I,114.1
+NLCG0680,Rivers,South South,Urban,45,Male,Primary,Agriculture,Never,No,Never,Yes,No,High,32.5,No,No,Control,Not applicable,9.2
+NLCG0681,Osun,South West,Rural,49,Female,Secondary,Civil service,Never,No,Never,No,No,Moderate,20.6,No,No,Control,Not applicable,19.8
+NLCG0682,Abia,South East,Urban,58,Male,Secondary,Skilled manual,Current,No,Current,No,No,Moderate,16.9,No,No,Control,Not applicable,11.4
+NLCG0683,Kano,North West,Urban,51,Male,Primary,Civil service,Never,No,Never,Yes,No,Moderate,30.2,No,No,Control,Not applicable,5.7
+NLCG0684,Kano,North West,Urban,34,Male,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,33.3,No,No,Control,Not applicable,7.1
+NLCG0685,Lagos,South West,Urban,51,Male,Secondary,Unemployed/Retired,Never,Yes,Never,No,No,Moderate,24.1,No,No,Control,Not applicable,7.4
+NLCG0686,Lagos,South West,Urban,61,Female,Primary,Unemployed/Retired,Never,No,Never,No,No,Moderate,26.5,No,No,Control,Not applicable,6.7
+NLCG0687,Akwa Ibom,South South,Urban,45,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,27.2,No,No,Control,Not applicable,6.9
+NLCG0688,Kogi,North Central,Urban,58,Male,Tertiary,Civil service,Never,No,Current,Yes,No,Low,36.2,No,No,Control,Not applicable,11.1
+NLCG0689,Niger,North Central,Urban,41,Female,Tertiary,Civil service,Never,No,Never,Yes,No,Low,31.6,No,No,Control,Not applicable,6.4
+NLCG0690,Kogi,North Central,Rural,69,Male,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,22.2,No,No,Control,Not applicable,9.2
+NLCG0691,Cross River,South South,Rural,46,Male,Secondary,Agriculture,Never,No,Never,No,No,Moderate,25.4,No,No,Control,Not applicable,9.1
+NLCG0692,Enugu,South East,Rural,42,Male,Secondary,Agriculture,Never,Yes,Never,No,No,Moderate,31.3,No,No,Control,Not applicable,4.5
+NLCG0693,Katsina,North West,Rural,52,Female,Secondary,Trading,Never,No,Never,No,No,Low,31.8,No,No,Control,Not applicable,15.6
+NLCG0694,Bauchi,North East,Rural,58,Female,Primary,Agriculture,Never,No,Never,Yes,No,Low,28.2,No,No,Control,Not applicable,17.1
+NLCG0695,Edo,South South,Rural,42,Male,None,Professional,Never,No,Never,No,No,Low,33.2,No,No,Control,Not applicable,6.5
+NLCG0696,FCT,North Central,Urban,70,Female,Tertiary,Trading,Former,No,Never,No,Yes,Moderate,29.1,No,No,Control,Not applicable,13.3
+NLCG0697,Kebbi,North West,Urban,65,Female,Tertiary,Agriculture,Never,No,Former,No,No,Moderate,33.1,No,No,Control,Not applicable,10.8
+NLCG0698,Kebbi,North West,Rural,30,Female,Primary,Professional,Never,No,Never,Yes,No,Moderate,23.0,No,No,Control,Not applicable,6.6
+NLCG0699,Delta,South South,Urban,52,Female,Tertiary,Trading,Never,No,Current,No,No,High,30.2,No,No,Control,Not applicable,4.2
+NLCG0700,Bauchi,North East,Urban,51,Female,Tertiary,Agriculture,Never,No,Never,Yes,No,High,23.9,No,No,Control,Not applicable,14.7
+NLCG0701,FCT,North Central,Urban,64,Female,Tertiary,Agriculture,Never,No,Current,No,No,Moderate,27.5,No,No,Control,Not applicable,7.1
+NLCG0702,Kwara,North Central,Urban,42,Male,None,Trading,Current,No,Never,No,No,Moderate,27.8,No,No,Control,Not applicable,8.0
+NLCG0703,Oyo,South West,Rural,60,Female,None,Unemployed/Retired,Never,No,Never,No,No,Low,22.0,No,No,Control,Not applicable,11.9
+NLCG0704,Kano,North West,Urban,69,Female,Tertiary,Unemployed/Retired,Current,No,Never,No,No,Moderate,25.7,No,No,Control,Not applicable,10.2
+NLCG0705,Anambra,South East,Rural,47,Female,Primary,Civil service,Never,No,Never,No,No,Moderate,25.4,No,No,Control,Not applicable,5.6
+NLCG0706,Rivers,South South,Rural,41,Female,Tertiary,Civil service,Never,No,Current,No,No,Moderate,26.6,No,No,Control,Not applicable,5.0
+NLCG0707,Delta,South South,Urban,32,Male,Secondary,Trading,Never,No,Never,No,No,Moderate,22.5,No,No,Case,IV,407.4
+NLCG0708,Lagos,South West,Rural,64,Male,None,Agriculture,Never,No,Never,No,No,Moderate,27.9,No,No,Control,Not applicable,15.1
+NLCG0709,Oyo,South West,Rural,43,Male,Primary,Civil service,Never,No,Never,No,No,Low,21.7,No,No,Control,Not applicable,18.1
+NLCG0710,Kano,North West,Urban,58,Female,Tertiary,Trading,Never,No,Never,No,No,High,19.3,No,No,Control,Not applicable,5.8
+NLCG0711,Kwara,North Central,Urban,56,Female,Secondary,Agriculture,Never,Yes,Current,No,No,Moderate,25.7,No,No,Control,Not applicable,12.0
+NLCG0712,Niger,North Central,Rural,27,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Moderate,27.4,No,No,Control,Not applicable,10.6
+NLCG0713,Benue,North Central,Rural,81,Male,Primary,Skilled manual,Current,No,Current,No,No,High,18.2,No,No,Case,II,29.7
+NLCG0714,Lagos,South West,Urban,49,Female,Primary,Unemployed/Retired,Never,No,Never,No,No,High,29.2,No,No,Control,Not applicable,9.8
+NLCG0715,Katsina,North West,Urban,35,Male,None,Civil service,Never,No,Current,No,No,Moderate,31.4,No,No,Case,II,49.3
+NLCG0716,Bauchi,North East,Rural,62,Male,Tertiary,Unemployed/Retired,Never,No,Current,Yes,Yes,Moderate,22.2,No,No,Case,II,18.8
+NLCG0717,Kano,North West,Rural,37,Female,None,Trading,Never,No,Never,No,No,High,23.0,No,No,Control,Not applicable,12.7
+NLCG0718,Plateau,North Central,Rural,36,Male,Primary,Skilled manual,Never,No,Current,No,No,Moderate,26.8,No,No,Control,Not applicable,9.5
+NLCG0719,Sokoto,North West,Rural,50,Male,Secondary,Professional,Never,No,Current,No,No,Low,17.2,No,No,Control,Not applicable,7.2
+NLCG0720,Osun,South West,Urban,42,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,25.4,No,No,Control,Not applicable,7.7
+NLCG0721,Rivers,South South,Rural,25,Male,Primary,Trading,Never,No,Former,No,No,High,30.5,No,Yes,Control,Not applicable,11.7
+NLCG0722,Sokoto,North West,Rural,35,Male,Secondary,Unemployed/Retired,Never,No,Current,No,No,Low,21.5,No,No,Control,Not applicable,2.9
+NLCG0723,Delta,South South,Rural,52,Female,None,Agriculture,Never,No,Current,No,No,High,15.8,No,No,Case,II,2.6
+NLCG0724,Enugu,South East,Urban,52,Male,Secondary,Trading,Never,No,Never,No,No,Low,22.5,No,No,Control,Not applicable,7.5
+NLCG0725,Anambra,South East,Urban,48,Female,Tertiary,Agriculture,Never,No,Never,Yes,No,High,22.3,No,No,Control,Not applicable,7.5
+NLCG0726,Ebonyi,South East,Rural,44,Male,Secondary,Trading,Never,No,Current,No,No,Moderate,28.3,No,No,Case,I,102.5
+NLCG0727,FCT,North Central,Rural,52,Male,Tertiary,Agriculture,Never,No,Current,Yes,No,Low,19.1,Yes,No,Control,Not applicable,10.3
+NLCG0728,Adamawa,North East,Rural,21,Female,Secondary,Unemployed/Retired,Never,No,Current,No,No,Low,24.7,No,No,Control,Not applicable,7.8
+NLCG0729,Kebbi,North West,Urban,59,Female,Primary,Trading,Never,No,Former,No,No,Low,26.1,No,No,Control,Not applicable,16.8
+NLCG0730,Kano,North West,Urban,69,Female,Secondary,Trading,Never,Yes,Never,No,Yes,Moderate,23.4,No,No,Control,Not applicable,9.4
+NLCG0731,FCT,North Central,Rural,30,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,31.6,No,No,Control,Not applicable,33.9
+NLCG0732,Oyo,South West,Rural,57,Female,None,Agriculture,Never,No,Current,No,No,High,23.9,No,No,Control,Not applicable,4.0
+NLCG0733,Zamfara,North West,Rural,50,Female,Primary,Trading,Never,No,Never,No,No,Moderate,15.6,No,No,Case,I,44.3
+NLCG0734,Kaduna,North West,Rural,58,Male,Primary,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,29.3,No,No,Case,I,125.8
+NLCG0735,Oyo,South West,Urban,55,Female,None,Unemployed/Retired,Never,No,Never,Yes,No,Low,33.1,No,No,Control,Not applicable,13.7
+NLCG0736,Akwa Ibom,South South,Urban,71,Male,Secondary,Trading,Current,No,Current,No,No,High,37.0,No,Yes,Case,II,24.7
+NLCG0737,Lagos,South West,Urban,66,Female,Primary,Agriculture,Never,Yes,Never,No,No,Moderate,28.1,No,No,Control,Not applicable,12.3
+NLCG0738,Sokoto,North West,Urban,34,Male,Primary,Unemployed/Retired,Never,No,Current,Yes,No,Moderate,25.1,No,No,Control,Not applicable,9.6
+NLCG0739,Oyo,South West,Urban,37,Male,Primary,Civil service,Current,No,Current,No,No,Moderate,26.7,No,No,Control,Not applicable,8.0
+NLCG0740,Kogi,North Central,Rural,31,Male,Secondary,Skilled manual,Never,No,Never,No,No,Moderate,24.0,No,No,Control,Not applicable,4.1
+NLCG0741,Ekiti,South West,Urban,19,Female,None,Trading,Never,No,Never,No,No,Moderate,34.6,No,No,Control,Not applicable,10.9
+NLCG0742,Anambra,South East,Urban,68,Male,Primary,Professional,Current,No,Current,No,Yes,Moderate,37.3,No,No,Control,Not applicable,3.6
+NLCG0743,Borno,North East,Rural,35,Female,Primary,Agriculture,Never,No,Never,No,No,Low,24.6,No,No,Control,Not applicable,9.4
+NLCG0744,Yobe,North East,Urban,84,Female,Primary,Professional,Never,Yes,Never,Yes,No,High,28.0,No,No,Case,III,66.9
+NLCG0745,Oyo,South West,Rural,28,Male,Secondary,Professional,Never,No,Never,No,No,Low,24.3,No,No,Control,Not applicable,10.5
+NLCG0746,Kwara,North Central,Rural,23,Male,Secondary,Agriculture,Never,No,Current,Yes,No,Moderate,24.5,No,No,Control,Not applicable,7.8
+NLCG0747,Plateau,North Central,Urban,56,Female,Primary,Agriculture,Never,No,Former,No,No,High,26.0,No,No,Control,Not applicable,8.4
+NLCG0748,Borno,North East,Rural,61,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,27.3,Yes,No,Control,Not applicable,9.3
+NLCG0749,Osun,South West,Urban,53,Male,Tertiary,Unemployed/Retired,Current,No,Former,No,No,High,29.8,No,No,Control,Not applicable,11.8
+NLCG0750,Oyo,South West,Urban,51,Male,Secondary,Trading,Never,No,Current,No,No,Low,22.7,No,No,Control,Not applicable,21.9
+NLCG0751,Nasarawa,North Central,Rural,42,Female,Secondary,Agriculture,Never,No,Never,No,No,High,23.6,No,No,Control,Not applicable,6.8
+NLCG0752,Lagos,South West,Urban,61,Male,Secondary,Professional,Never,No,Never,No,Yes,Moderate,15.4,No,No,Control,Not applicable,12.6
+NLCG0753,FCT,North Central,Urban,50,Female,Tertiary,Trading,Never,No,Current,No,No,Low,22.3,No,Yes,Control,Not applicable,5.6
+NLCG0754,Kebbi,North West,Urban,58,Female,Secondary,Agriculture,Never,No,Current,No,No,Moderate,29.4,No,No,Control,Not applicable,10.4
+NLCG0755,Ebonyi,South East,Rural,54,Male,Primary,Unemployed/Retired,Never,No,Current,No,No,Moderate,24.3,No,No,Control,Not applicable,9.8
+NLCG0756,Kogi,North Central,Rural,49,Female,Primary,Trading,Never,No,Never,No,No,Moderate,20.4,No,Yes,Case,I,16.5
+NLCG0757,Abia,South East,Rural,40,Female,None,Skilled manual,Former,No,Current,No,No,Low,15.2,Yes,No,Control,Not applicable,11.2
+NLCG0758,Edo,South South,Rural,28,Male,Primary,Trading,Never,No,Never,Yes,No,Low,22.7,No,No,Control,Not applicable,8.5
+NLCG0759,Jigawa,North West,Urban,32,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,28.0,No,No,Control,Not applicable,13.3
+NLCG0760,Rivers,South South,Rural,54,Male,Secondary,Skilled manual,Never,No,Never,No,No,Moderate,28.0,No,No,Control,Not applicable,10.3
+NLCG0761,Gombe,North East,Urban,61,Male,Primary,Professional,Never,No,Current,Yes,No,Low,24.5,No,No,Control,Not applicable,5.2
+NLCG0762,Niger,North Central,Urban,85,Male,Tertiary,Professional,Current,Yes,Former,No,No,Low,24.7,No,No,Control,Not applicable,10.2
+NLCG0763,Adamawa,North East,Rural,25,Male,Secondary,Trading,Current,Yes,Current,No,Yes,High,19.8,No,No,Control,Not applicable,7.9
+NLCG0764,Katsina,North West,Urban,49,Male,Primary,Skilled manual,Former,No,Former,Yes,No,Moderate,26.4,No,No,Control,Not applicable,8.0
+NLCG0765,Zamfara,North West,Urban,40,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Low,24.5,No,Yes,Control,Not applicable,6.9
+NLCG0766,Oyo,South West,Urban,19,Male,Secondary,Agriculture,Never,No,Never,No,No,High,32.6,No,No,Control,Not applicable,8.2
+NLCG0767,Cross River,South South,Urban,58,Female,Primary,Skilled manual,Never,No,Never,No,No,Moderate,26.8,No,No,Control,Not applicable,8.0
+NLCG0768,Enugu,South East,Rural,50,Female,Tertiary,Agriculture,Former,No,Current,No,No,Moderate,28.3,No,No,Control,Not applicable,9.9
+NLCG0769,Osun,South West,Rural,53,Female,None,Skilled manual,Never,No,Former,No,No,Low,27.7,No,No,Control,Not applicable,9.9
+NLCG0770,Ebonyi,South East,Urban,58,Male,Secondary,Professional,Never,No,Never,No,No,Low,18.9,Yes,No,Control,Not applicable,7.9
+NLCG0771,Sokoto,North West,Rural,37,Female,Primary,Agriculture,Never,No,Current,No,No,Low,23.3,No,No,Control,Not applicable,8.7
+NLCG0772,Kano,North West,Urban,37,Female,Tertiary,Trading,Never,No,Never,No,No,Moderate,24.5,No,No,Control,Not applicable,7.5
+NLCG0773,Nasarawa,North Central,Rural,77,Male,Secondary,Unemployed/Retired,Current,No,Current,No,No,High,18.2,No,No,Control,Not applicable,6.7
+NLCG0774,Gombe,North East,Rural,65,Male,Secondary,Civil service,Never,No,Current,No,No,Moderate,21.7,No,No,Control,Not applicable,8.2
+NLCG0775,Oyo,South West,Urban,33,Female,Secondary,Agriculture,Never,No,Never,No,No,Low,24.6,No,No,Control,Not applicable,9.5
+NLCG0776,Borno,North East,Urban,31,Male,Tertiary,Trading,Never,No,Current,No,No,Moderate,17.6,No,No,Control,Not applicable,3.8
+NLCG0777,Lagos,South West,Urban,65,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Low,30.1,No,No,Control,Not applicable,14.9
+NLCG0778,Abia,South East,Rural,29,Female,Primary,Agriculture,Current,No,Former,No,No,High,27.3,No,No,Control,Not applicable,6.2
+NLCG0779,Kaduna,North West,Urban,37,Male,Primary,Agriculture,Never,No,Never,Yes,No,Moderate,35.1,No,No,Control,Not applicable,13.8
+NLCG0780,Abia,South East,Urban,43,Male,Secondary,Trading,Never,No,Never,No,No,High,21.1,No,No,Control,Not applicable,8.9
+NLCG0781,Bayelsa,South South,Urban,53,Male,Tertiary,Agriculture,Never,No,Current,No,No,High,32.2,No,No,Control,Not applicable,6.0
+NLCG0782,Nasarawa,North Central,Rural,21,Female,Primary,Agriculture,Never,No,Never,No,No,Low,32.6,No,No,Control,Not applicable,10.6
+NLCG0783,Gombe,North East,Urban,24,Male,Tertiary,Agriculture,Never,No,Current,No,No,Moderate,23.5,No,Yes,Control,Not applicable,8.4
+NLCG0784,Plateau,North Central,Urban,18,Male,Primary,Trading,Never,Yes,Current,No,No,Low,27.9,No,No,Control,Not applicable,11.5
+NLCG0785,Gombe,North East,Rural,27,Male,Primary,Civil service,Never,No,Current,No,No,Low,21.4,No,No,Control,Not applicable,8.8
+NLCG0786,Osun,South West,Urban,59,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,High,26.7,Yes,No,Control,Not applicable,4.7
+NLCG0787,Kogi,North Central,Rural,56,Male,Secondary,Agriculture,Never,No,Never,No,No,High,29.1,No,No,Control,Not applicable,5.0
+NLCG0788,Borno,North East,Urban,32,Female,Secondary,Agriculture,Never,Yes,Never,No,No,Moderate,25.0,No,No,Control,Not applicable,8.8
+NLCG0789,Lagos,South West,Urban,60,Female,None,Skilled manual,Never,No,Never,No,No,Moderate,22.7,No,No,Control,Not applicable,15.6
+NLCG0790,Delta,South South,Rural,50,Male,Secondary,Agriculture,Current,No,Current,No,No,Low,20.3,No,No,Control,Not applicable,4.9
+NLCG0791,Lagos,South West,Urban,41,Male,None,Unemployed/Retired,Never,No,Never,No,No,Moderate,26.5,No,No,Case,I,139.1
+NLCG0792,Ebonyi,South East,Urban,38,Male,Primary,Skilled manual,Current,No,Never,No,No,Low,34.5,No,No,Control,Not applicable,10.0
+NLCG0793,Imo,South East,Urban,51,Female,Tertiary,Agriculture,Never,No,Current,Yes,No,High,26.1,No,No,Case,III,158.5
+NLCG0794,Kwara,North Central,Rural,22,Male,Secondary,Agriculture,Current,No,Current,No,Yes,High,27.5,No,No,Control,Not applicable,4.8
+NLCG0795,Yobe,North East,Rural,44,Female,None,Trading,Never,No,Never,No,No,High,29.1,No,Yes,Case,I,293.6
+NLCG0796,Kwara,North Central,Urban,42,Male,None,Skilled manual,Current,Yes,Current,No,No,Low,27.1,No,No,Control,Not applicable,16.1
+NLCG0797,Ekiti,South West,Urban,36,Female,Primary,Agriculture,Never,No,Never,No,No,Moderate,27.6,No,No,Control,Not applicable,17.4
+NLCG0798,Plateau,North Central,Urban,25,Male,Primary,Trading,Current,No,Never,No,No,Moderate,25.2,No,No,Control,Not applicable,5.4
+NLCG0799,Lagos,South West,Rural,59,Female,Primary,Agriculture,Never,No,Never,No,No,High,23.2,No,No,Control,Not applicable,6.4
+NLCG0800,Cross River,South South,Rural,59,Female,None,Unemployed/Retired,Never,No,Current,No,No,Moderate,37.0,No,No,Control,Not applicable,6.5
+NLCG0801,Sokoto,North West,Rural,36,Male,Tertiary,Skilled manual,Never,No,Never,No,No,High,19.9,No,No,Control,Not applicable,6.7
+NLCG0802,Niger,North Central,Urban,80,Female,Tertiary,Trading,Never,No,Never,No,No,Moderate,34.4,Yes,No,Control,Not applicable,6.0
+NLCG0803,Lagos,South West,Urban,35,Male,Primary,Unemployed/Retired,Former,No,Current,No,No,High,20.5,No,No,Control,Not applicable,15.3
+NLCG0804,Cross River,South South,Urban,57,Male,Secondary,Agriculture,Never,No,Never,Yes,No,Moderate,25.2,No,No,Control,Not applicable,7.2
+NLCG0805,Jigawa,North West,Rural,52,Male,Tertiary,Professional,Former,No,Current,No,No,Low,23.4,No,No,Control,Not applicable,11.3
+NLCG0806,Taraba,North East,Rural,81,Male,None,Agriculture,Current,Yes,Current,No,No,Low,15.2,No,No,Case,III,278.3
+NLCG0807,Bayelsa,South South,Rural,63,Male,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,22.8,No,No,Control,Not applicable,21.2
+NLCG0808,Kebbi,North West,Urban,55,Male,None,Skilled manual,Never,No,Current,No,No,Low,28.9,No,No,Control,Not applicable,10.0
+NLCG0809,Borno,North East,Urban,63,Male,Secondary,Unemployed/Retired,Current,No,Never,No,No,Moderate,34.6,No,No,Control,Not applicable,6.2
+NLCG0810,Delta,South South,Urban,25,Male,Primary,Agriculture,Never,No,Never,No,No,Moderate,25.2,No,No,Control,Not applicable,15.4
+NLCG0811,Kano,North West,Rural,57,Female,Tertiary,Trading,Never,No,Former,No,No,Moderate,22.6,No,No,Control,Not applicable,9.2
+NLCG0812,Kano,North West,Urban,48,Male,None,Civil service,Never,No,Never,No,No,High,31.6,No,No,Control,Not applicable,13.6
+NLCG0813,Kano,North West,Rural,40,Female,Primary,Unemployed/Retired,Never,No,Never,No,No,Low,25.3,No,No,Control,Not applicable,12.4
+NLCG0814,Abia,South East,Urban,18,Male,Primary,Agriculture,Never,No,Current,No,No,Moderate,27.1,No,No,Control,Not applicable,12.6
+NLCG0815,Plateau,North Central,Urban,54,Male,Primary,Agriculture,Former,No,Current,No,No,High,25.9,No,No,Control,Not applicable,17.1
+NLCG0816,Osun,South West,Urban,52,Male,Secondary,Skilled manual,Never,No,Never,No,No,Low,29.6,No,No,Control,Not applicable,7.6
+NLCG0817,Abia,South East,Rural,43,Female,None,Professional,Never,No,Never,No,No,High,17.7,No,No,Control,Not applicable,9.7
+NLCG0818,Zamfara,North West,Urban,32,Female,None,Agriculture,Never,No,Never,No,No,Moderate,24.6,No,No,Control,Not applicable,9.1
+NLCG0819,Nasarawa,North Central,Rural,31,Female,Secondary,Professional,Never,No,Former,No,No,Low,29.4,No,No,Control,Not applicable,13.7
+NLCG0820,Niger,North Central,Rural,32,Female,Primary,Trading,Never,No,Former,No,No,Moderate,33.9,No,No,Control,Not applicable,8.1
+NLCG0821,Ondo,South West,Rural,50,Male,Secondary,Trading,Current,No,Never,No,Yes,High,15,No,No,Control,Not applicable,7.8
+NLCG0822,Bayelsa,South South,Rural,56,Male,None,Trading,Current,No,Former,No,No,Low,31.1,No,No,Control,Not applicable,10.0
+NLCG0823,Oyo,South West,Rural,37,Female,Primary,Unemployed/Retired,Never,No,Former,No,No,Moderate,21.9,No,No,Control,Not applicable,13.3
+NLCG0824,Cross River,South South,Rural,47,Male,Primary,Agriculture,Never,No,Current,Yes,No,High,26.3,No,No,Control,Not applicable,13.7
+NLCG0825,Abia,South East,Rural,68,Female,Secondary,Agriculture,Never,No,Never,No,No,Low,19.0,No,No,Control,Not applicable,7.7
+NLCG0826,Enugu,South East,Rural,39,Female,None,Unemployed/Retired,Never,No,Never,Yes,No,Low,23.7,No,No,Control,Not applicable,14.7
+NLCG0827,Gombe,North East,Urban,74,Male,Secondary,Unemployed/Retired,Current,No,Never,No,No,Moderate,20.3,No,No,Control,Not applicable,15.8
+NLCG0828,Jigawa,North West,Urban,68,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Low,21.9,No,No,Control,Not applicable,16.4
+NLCG0829,Anambra,South East,Urban,57,Female,Secondary,Professional,Never,No,Never,No,No,Moderate,20.5,No,No,Control,Not applicable,7.6
+NLCG0830,FCT,North Central,Urban,27,Male,Tertiary,Trading,Never,No,Never,No,No,Low,23.9,No,No,Control,Not applicable,5.7
+NLCG0831,Zamfara,North West,Urban,40,Male,Tertiary,Agriculture,Former,No,Never,No,No,Moderate,29.9,No,No,Control,Not applicable,8.6
+NLCG0832,Rivers,South South,Urban,60,Male,None,Unemployed/Retired,Current,No,Never,No,Yes,Low,21.9,No,No,Control,Not applicable,12.6
+NLCG0833,Edo,South South,Rural,51,Male,None,Agriculture,Current,No,Current,No,No,Moderate,18.8,No,No,Control,Not applicable,20.8
+NLCG0834,Adamawa,North East,Urban,38,Female,Secondary,Civil service,Never,No,Never,No,No,Moderate,26.7,No,No,Control,Not applicable,8.0
+NLCG0835,Ekiti,South West,Urban,63,Male,Secondary,Civil service,Never,No,Never,No,No,Low,28.8,No,No,Control,Not applicable,4.7
+NLCG0836,Anambra,South East,Urban,62,Female,Primary,Professional,Never,No,Never,No,No,Moderate,27.2,No,No,Control,Not applicable,15.3
+NLCG0837,Ogun,South West,Rural,48,Male,Secondary,Trading,Never,Yes,Current,Yes,No,Moderate,28.9,No,No,Case,IV,107.2
+NLCG0838,Ekiti,South West,Rural,29,Female,Secondary,Civil service,Never,No,Current,No,No,High,36.9,No,No,Control,Not applicable,8.2
+NLCG0839,Bauchi,North East,Urban,46,Female,Tertiary,Skilled manual,Never,No,Never,No,No,Moderate,26.0,Yes,No,Control,Not applicable,8.1
+NLCG0840,Ebonyi,South East,Rural,74,Male,Tertiary,Civil service,Never,No,Never,No,No,Moderate,34.8,No,No,Case,II,48.2
+NLCG0841,Abia,South East,Rural,53,Male,None,Unemployed/Retired,Never,Yes,Never,No,No,High,28.4,No,No,Control,Not applicable,16.1
+NLCG0842,Nasarawa,North Central,Rural,72,Female,Tertiary,Unemployed/Retired,Never,No,Current,No,No,Low,20.4,No,No,Control,Not applicable,5.6
+NLCG0843,Abia,South East,Urban,68,Male,Primary,Skilled manual,Never,No,Current,No,No,Moderate,28.1,No,No,Case,III,391.3
+NLCG0844,Anambra,South East,Rural,39,Female,Primary,Trading,Never,No,Current,No,No,Low,24.7,No,No,Control,Not applicable,7.3
+NLCG0845,Kano,North West,Urban,78,Male,Primary,Civil service,Former,No,Current,No,No,High,30.5,Yes,No,Control,Not applicable,11.1
+NLCG0846,Borno,North East,Urban,51,Female,None,Unemployed/Retired,Never,No,Never,No,No,Moderate,33.9,No,No,Control,Not applicable,8.8
+NLCG0847,FCT,North Central,Urban,71,Male,None,Unemployed/Retired,Never,No,Current,No,No,Low,29.1,No,No,Control,Not applicable,11.6
+NLCG0848,Cross River,South South,Rural,62,Male,Primary,Professional,Never,No,Never,No,Yes,High,25.9,No,No,Case,II,405.8
+NLCG0849,Yobe,North East,Rural,48,Female,Tertiary,Skilled manual,Never,No,Never,No,No,High,20.2,No,No,Control,Not applicable,9.8
+NLCG0850,Gombe,North East,Rural,46,Male,Secondary,Agriculture,Never,No,Current,No,No,Low,29.4,No,No,Control,Not applicable,5.0
+NLCG0851,Anambra,South East,Rural,59,Male,None,Agriculture,Never,Yes,Current,No,No,Low,15,No,No,Control,Not applicable,5.8
+NLCG0852,Kaduna,North West,Urban,42,Female,Tertiary,Agriculture,Former,No,Never,No,No,High,32.3,No,Yes,Control,Not applicable,6.7
+NLCG0853,Kaduna,North West,Rural,50,Male,None,Skilled manual,Never,No,Current,No,No,High,22.2,No,No,Control,Not applicable,9.8
+NLCG0854,Cross River,South South,Rural,46,Male,Tertiary,Professional,Never,No,Former,Yes,No,Moderate,27.4,No,No,Control,Not applicable,11.0
+NLCG0855,Kwara,North Central,Urban,68,Male,Secondary,Agriculture,Never,No,Current,No,No,Moderate,25.2,Yes,No,Control,Not applicable,10.5
+NLCG0856,Ogun,South West,Urban,48,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,30.0,No,No,Control,Not applicable,7.6
+NLCG0857,Kebbi,North West,Urban,72,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,24.5,No,No,Control,Not applicable,9.6
+NLCG0858,Imo,South East,Urban,37,Male,Tertiary,Agriculture,Never,No,Current,No,No,Low,23.6,No,No,Control,Not applicable,9.4
+NLCG0859,Benue,North Central,Urban,47,Female,None,Unemployed/Retired,Never,No,Never,No,No,Moderate,17.0,No,No,Control,Not applicable,7.7
+NLCG0860,Zamfara,North West,Rural,58,Male,Secondary,Trading,Current,No,Current,No,No,Moderate,32.4,No,No,Control,Not applicable,4.1
+NLCG0861,Katsina,North West,Rural,59,Male,Primary,Skilled manual,Never,No,Never,Yes,No,Moderate,25.4,No,No,Control,Not applicable,4.8
+NLCG0862,Taraba,North East,Urban,69,Male,Tertiary,Agriculture,Former,No,Former,No,No,Moderate,26.8,No,No,Case,III,25.1
+NLCG0863,Osun,South West,Urban,57,Male,Tertiary,Civil service,Never,No,Never,No,No,Low,16.2,No,No,Control,Not applicable,10.4
+NLCG0864,Lagos,South West,Rural,38,Female,Tertiary,Agriculture,Never,No,Current,No,No,High,23.9,No,Yes,Control,Not applicable,4.8
+NLCG0865,Osun,South West,Urban,41,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Low,25.8,No,No,Control,Not applicable,8.3
+NLCG0866,Anambra,South East,Urban,40,Female,Primary,Unemployed/Retired,Never,Yes,Never,Yes,No,Moderate,29.7,No,No,Control,Not applicable,15.9
+NLCG0867,Gombe,North East,Rural,29,Male,Primary,Trading,Never,No,Former,No,No,Moderate,28.7,No,Yes,Control,Not applicable,8.4
+NLCG0868,Nasarawa,North Central,Urban,57,Male,Primary,Civil service,Never,No,Never,Yes,No,Low,21.7,No,No,Control,Not applicable,4.6
+NLCG0869,FCT,North Central,Urban,61,Female,Primary,Trading,Never,No,Never,No,No,Moderate,29.3,No,No,Control,Not applicable,9.2
+NLCG0870,Kogi,North Central,Rural,85,Male,Secondary,Trading,Never,Yes,Never,No,No,Low,28.5,No,No,Control,Not applicable,5.4
+NLCG0871,Akwa Ibom,South South,Rural,64,Male,Secondary,Trading,Current,No,Never,Yes,No,Moderate,22.6,No,Yes,Case,IV,219.4
+NLCG0872,Taraba,North East,Rural,66,Female,Primary,Trading,Never,No,Current,Yes,No,Low,18.4,No,No,Control,Not applicable,8.6
+NLCG0873,Osun,South West,Urban,52,Male,Tertiary,Trading,Never,No,Never,No,No,Moderate,20.3,No,No,Control,Not applicable,14.5
+NLCG0874,Adamawa,North East,Rural,66,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,27.0,No,No,Control,Not applicable,5.4
+NLCG0875,Cross River,South South,Rural,53,Male,Primary,Civil service,Former,No,Current,No,Yes,Moderate,26.0,Yes,No,Control,Not applicable,7.7
+NLCG0876,Gombe,North East,Rural,51,Female,Primary,Trading,Never,No,Former,No,No,Low,25.2,No,No,Case,IV,32.7
+NLCG0877,Sokoto,North West,Rural,48,Female,None,Trading,Never,Yes,Never,No,No,Moderate,29.8,No,No,Control,Not applicable,7.9
+NLCG0878,Benue,North Central,Rural,47,Female,None,Agriculture,Never,No,Never,No,No,Moderate,18.7,No,No,Control,Not applicable,8.6
+NLCG0879,Rivers,South South,Rural,46,Male,None,Professional,Never,No,Current,No,No,Moderate,32.9,No,No,Control,Not applicable,17.3
+NLCG0880,Abia,South East,Urban,81,Male,Secondary,Professional,Never,No,Never,No,No,High,17.5,No,No,Control,Not applicable,13.2
+NLCG0881,Edo,South South,Rural,63,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,30.6,No,No,Control,Not applicable,10.7
+NLCG0882,Niger,North Central,Urban,47,Female,Secondary,Professional,Never,No,Never,Yes,No,Moderate,24.8,No,No,Case,I,115.5
+NLCG0883,Ebonyi,South East,Urban,34,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,High,30.4,No,No,Control,Not applicable,5.9
+NLCG0884,Lagos,South West,Urban,42,Female,Primary,Professional,Former,No,Never,No,No,Low,27.8,No,No,Control,Not applicable,10.3
+NLCG0885,Adamawa,North East,Urban,33,Female,Secondary,Trading,Never,No,Current,No,No,Moderate,25.1,No,No,Control,Not applicable,14.5
+NLCG0886,Anambra,South East,Urban,39,Female,Secondary,Civil service,Current,No,Never,No,No,High,29.9,No,No,Control,Not applicable,10.5
+NLCG0887,Jigawa,North West,Rural,30,Male,Primary,Professional,Never,No,Current,No,No,Moderate,22.1,No,No,Control,Not applicable,30.5
+NLCG0888,Adamawa,North East,Urban,46,Female,Tertiary,Professional,Never,No,Current,No,No,Moderate,27.3,No,No,Control,Not applicable,4.9
+NLCG0889,Nasarawa,North Central,Urban,39,Female,None,Skilled manual,Never,No,Never,No,No,Low,34.0,No,No,Control,Not applicable,7.2
+NLCG0890,Ekiti,South West,Urban,59,Female,Tertiary,Agriculture,Never,No,Never,No,No,Low,22.9,No,No,Control,Not applicable,11.3
+NLCG0891,Kano,North West,Rural,67,Male,Secondary,Agriculture,Current,No,Current,No,No,Low,27.1,No,No,Case,IV,268.7
+NLCG0892,Osun,South West,Rural,61,Female,Primary,Trading,Never,No,Former,No,No,Moderate,24.4,No,No,Control,Not applicable,9.9
+NLCG0893,Taraba,North East,Urban,36,Male,None,Professional,Former,No,Never,No,No,Low,30.7,No,No,Control,Not applicable,11.1
+NLCG0894,Jigawa,North West,Rural,82,Female,Primary,Skilled manual,Never,No,Never,No,No,Low,29.9,No,No,Control,Not applicable,9.9
+NLCG0895,Kebbi,North West,Rural,23,Female,Secondary,Unemployed/Retired,Never,Yes,Never,No,No,Moderate,24.2,No,No,Control,Not applicable,9.0
+NLCG0896,Benue,North Central,Rural,42,Male,Secondary,Civil service,Never,Yes,Former,No,No,High,32.1,No,No,Control,Not applicable,8.2
+NLCG0897,Plateau,North Central,Rural,58,Male,None,Agriculture,Never,No,Never,No,No,Moderate,23.4,No,No,Control,Not applicable,4.9
+NLCG0898,Sokoto,North West,Rural,57,Female,None,Agriculture,Never,No,Never,No,No,Low,29.6,No,No,Control,Not applicable,5.6
+NLCG0899,Niger,North Central,Rural,39,Female,Secondary,Agriculture,Never,No,Never,No,No,Low,29.1,No,No,Control,Not applicable,8.7
+NLCG0900,Nasarawa,North Central,Urban,67,Female,Tertiary,Civil service,Never,No,Current,No,No,Low,25.2,No,No,Case,III,64.5
+NLCG0901,Yobe,North East,Rural,49,Female,Primary,Agriculture,Current,No,Current,Yes,No,Moderate,20.8,No,No,Control,Not applicable,9.7
+NLCG0902,Zamfara,North West,Rural,48,Male,Secondary,Unemployed/Retired,Never,No,Current,Yes,No,Moderate,30.4,No,No,Control,Not applicable,12.0
+NLCG0903,Nasarawa,North Central,Urban,63,Female,Secondary,Agriculture,Never,No,Never,No,No,High,27.0,No,No,Control,Not applicable,4.6
+NLCG0904,Kebbi,North West,Rural,69,Male,Tertiary,Unemployed/Retired,Current,No,Current,Yes,No,High,20.6,No,No,Control,Not applicable,6.9
+NLCG0905,Enugu,South East,Rural,72,Female,None,Professional,Never,No,Never,No,No,Low,17.8,No,No,Control,Not applicable,7.1
+NLCG0906,Akwa Ibom,South South,Urban,61,Male,Primary,Trading,Current,No,Never,No,No,Moderate,34.1,No,No,Control,Not applicable,9.9
+NLCG0907,Kaduna,North West,Urban,57,Female,Primary,Skilled manual,Never,Yes,Current,No,No,Moderate,29.5,No,Yes,Control,Not applicable,5.2
+NLCG0908,Plateau,North Central,Urban,30,Male,Primary,Agriculture,Never,No,Current,Yes,No,High,20.6,No,No,Control,Not applicable,5.6
+NLCG0909,FCT,North Central,Urban,51,Male,Tertiary,Professional,Never,No,Current,No,No,Moderate,27.0,No,No,Control,Not applicable,5.4
+NLCG0910,Ekiti,South West,Rural,52,Female,None,Trading,Never,No,Never,No,No,Moderate,23.3,No,No,Control,Not applicable,11.5
+NLCG0911,Abia,South East,Urban,63,Female,Secondary,Agriculture,Never,No,Never,No,No,High,28.9,No,No,Control,Not applicable,6.3
+NLCG0912,Katsina,North West,Rural,30,Male,None,Agriculture,Never,No,Current,No,No,High,30.0,No,No,Control,Not applicable,16.2
+NLCG0913,Kano,North West,Urban,55,Male,Primary,Civil service,Never,No,Current,No,No,Low,25.7,No,No,Control,Not applicable,7.0
+NLCG0914,Kogi,North Central,Rural,25,Male,Secondary,Trading,Never,Yes,Never,No,No,Low,25.0,No,No,Control,Not applicable,8.1
+NLCG0915,Rivers,South South,Rural,50,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Low,22.6,No,No,Control,Not applicable,5.0
+NLCG0916,Kaduna,North West,Urban,50,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,26.2,No,No,Control,Not applicable,9.9
+NLCG0917,Jigawa,North West,Rural,18,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,26.2,No,No,Control,Not applicable,12.4
+NLCG0918,Adamawa,North East,Urban,66,Male,Primary,Civil service,Never,No,Former,No,No,Low,34.3,No,No,Control,Not applicable,12.2
+NLCG0919,Rivers,South South,Rural,27,Male,Secondary,Trading,Never,Yes,Never,No,No,Low,24.7,No,No,Control,Not applicable,19.0
+NLCG0920,Edo,South South,Rural,47,Female,None,Agriculture,Never,No,Former,No,No,High,21.3,No,No,Control,Not applicable,14.1
+NLCG0921,Anambra,South East,Rural,67,Male,Secondary,Agriculture,Never,No,Current,No,No,Low,26.6,Yes,No,Control,Not applicable,6.7
+NLCG0922,Kogi,North Central,Urban,79,Male,None,Unemployed/Retired,Never,No,Never,No,No,High,30.4,No,No,Control,Not applicable,6.1
+NLCG0923,Ekiti,South West,Urban,40,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,23.8,No,No,Control,Not applicable,9.2
+NLCG0924,Gombe,North East,Rural,77,Female,Primary,Civil service,Never,No,Never,No,Yes,Moderate,30.3,No,No,Case,II,202.3
+NLCG0925,Cross River,South South,Rural,46,Male,Secondary,Agriculture,Never,No,Current,No,No,High,22.0,No,No,Control,Not applicable,7.9
+NLCG0926,Lagos,South West,Urban,61,Male,Tertiary,Professional,Current,No,Current,No,No,High,30.2,Yes,No,Control,Not applicable,13.1
+NLCG0927,Bauchi,North East,Urban,70,Female,Secondary,Unemployed/Retired,Never,No,Never,Yes,No,Low,25.6,No,No,Case,IV,262.5
+NLCG0928,Gombe,North East,Rural,52,Male,Primary,Civil service,Never,No,Current,No,No,Low,20.8,No,Yes,Control,Not applicable,5.1
+NLCG0929,Oyo,South West,Urban,29,Female,None,Trading,Former,No,Never,No,No,High,22.2,No,No,Control,Not applicable,5.5
+NLCG0930,Ekiti,South West,Urban,44,Male,Secondary,Agriculture,Never,No,Never,No,No,High,33.9,No,No,Control,Not applicable,10.4
+NLCG0931,Ogun,South West,Rural,63,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,Moderate,23.8,No,No,Control,Not applicable,4.4
+NLCG0932,Abia,South East,Urban,31,Male,Secondary,Unemployed/Retired,Current,No,Current,No,No,Moderate,26.7,No,No,Control,Not applicable,5.1
+NLCG0933,Abia,South East,Rural,53,Female,Tertiary,Agriculture,Never,No,Never,No,No,Moderate,26.6,No,No,Case,III,761.1
+NLCG0934,Ogun,South West,Urban,54,Female,None,Civil service,Never,No,Never,No,No,High,23.9,No,No,Control,Not applicable,16.7
+NLCG0935,Benue,North Central,Urban,78,Male,None,Unemployed/Retired,Current,No,Former,No,No,Low,25.8,No,No,Control,Not applicable,13.4
+NLCG0936,Zamfara,North West,Urban,61,Male,Secondary,Professional,Never,No,Former,No,No,Moderate,24.7,No,No,Control,Not applicable,12.1
+NLCG0937,Ekiti,South West,Rural,38,Female,None,Trading,Never,No,Current,No,No,Low,15,No,No,Control,Not applicable,19.6
+NLCG0938,Yobe,North East,Urban,41,Female,None,Civil service,Never,No,Never,No,No,Moderate,27.9,No,Yes,Control,Not applicable,5.8
+NLCG0939,Jigawa,North West,Rural,47,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,High,16.0,No,No,Control,Not applicable,11.9
+NLCG0940,FCT,North Central,Rural,54,Male,Tertiary,Agriculture,Never,No,Current,Yes,No,High,28.1,No,No,Control,Not applicable,10.4
+NLCG0941,Ekiti,South West,Urban,57,Female,Secondary,Skilled manual,Never,No,Never,Yes,No,Moderate,28.7,No,No,Case,IV,43.2
+NLCG0942,Niger,North Central,Rural,53,Male,Secondary,Professional,Current,No,Never,No,No,Moderate,23.0,No,No,Control,Not applicable,18.0
+NLCG0943,Katsina,North West,Urban,70,Female,Secondary,Unemployed/Retired,Never,No,Never,No,No,High,19.6,No,No,Control,Not applicable,3.9
+NLCG0944,Zamfara,North West,Rural,47,Male,Tertiary,Unemployed/Retired,Never,No,Never,Yes,No,Moderate,22.4,No,No,Control,Not applicable,8.1
+NLCG0945,Kebbi,North West,Rural,40,Female,Secondary,Agriculture,Never,No,Former,No,No,High,31.3,No,No,Control,Not applicable,6.3
+NLCG0946,Edo,South South,Rural,57,Male,Primary,Civil service,Never,No,Never,No,No,Low,22.2,No,No,Control,Not applicable,9.5
+NLCG0947,Rivers,South South,Rural,40,Female,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,24.4,No,No,Control,Not applicable,5.9
+NLCG0948,Cross River,South South,Urban,30,Male,Secondary,Trading,Never,No,Never,No,No,High,29.5,No,No,Control,Not applicable,9.3
+NLCG0949,Ebonyi,South East,Rural,37,Female,Primary,Agriculture,Never,No,Never,No,No,Moderate,29.5,No,No,Control,Not applicable,9.3
+NLCG0950,Adamawa,North East,Urban,44,Female,None,Agriculture,Current,No,Current,No,No,High,34.2,No,No,Control,Not applicable,4.2
+NLCG0951,Borno,North East,Rural,57,Female,None,Civil service,Former,No,Never,No,No,Moderate,27.4,No,No,Case,III,43.7
+NLCG0952,Cross River,South South,Urban,52,Male,Secondary,Agriculture,Never,No,Current,No,No,Low,21.5,No,No,Control,Not applicable,12.1
+NLCG0953,Kaduna,North West,Rural,41,Female,None,Skilled manual,Never,No,Never,No,No,Moderate,22.8,No,No,Control,Not applicable,5.5
+NLCG0954,Sokoto,North West,Rural,59,Female,Tertiary,Trading,Never,No,Current,No,No,Low,26.3,No,No,Control,Not applicable,8.9
+NLCG0955,Benue,North Central,Rural,36,Female,Secondary,Skilled manual,Never,No,Current,No,No,Low,20.9,No,No,Control,Not applicable,8.8
+NLCG0956,Abia,South East,Urban,45,Female,Tertiary,Agriculture,Never,No,Never,Yes,No,Moderate,27.5,No,No,Control,Not applicable,3.4
+NLCG0957,Lagos,South West,Urban,53,Female,Secondary,Unemployed/Retired,Never,No,Current,No,No,Low,26.4,No,No,Control,Not applicable,12.0
+NLCG0958,Lagos,South West,Urban,84,Male,Tertiary,Skilled manual,Never,No,Current,No,No,High,25.1,No,No,Control,Not applicable,9.1
+NLCG0959,Anambra,South East,Rural,52,Female,Secondary,Trading,Never,No,Never,No,No,Moderate,19.6,No,No,Control,Not applicable,12.0
+NLCG0960,Anambra,South East,Urban,38,Male,Tertiary,Trading,Never,No,Current,Yes,No,Low,27.5,Yes,No,Control,Not applicable,14.7
+NLCG0961,FCT,North Central,Rural,64,Male,Secondary,Agriculture,Never,No,Former,No,Yes,Low,28.6,No,No,Control,Not applicable,10.6
+NLCG0962,Taraba,North East,Urban,48,Male,Primary,Agriculture,Never,No,Never,No,No,Moderate,26.1,No,No,Control,Not applicable,13.2
+NLCG0963,Enugu,South East,Urban,65,Female,Secondary,Agriculture,Never,No,Never,Yes,No,Moderate,21.0,No,No,Control,Not applicable,13.6
+NLCG0964,Niger,North Central,Urban,66,Male,Tertiary,Agriculture,Never,Yes,Current,No,No,Moderate,28.0,No,Yes,Control,Not applicable,4.0
+NLCG0965,Abia,South East,Urban,52,Female,Secondary,Trading,Never,No,Never,No,No,Low,23.6,No,No,Control,Not applicable,8.8
+NLCG0966,Imo,South East,Urban,48,Male,Secondary,Agriculture,Current,No,Current,No,No,Moderate,35.6,No,No,Control,Not applicable,11.7
+NLCG0967,Lagos,South West,Rural,37,Male,Tertiary,Trading,Never,No,Never,No,No,High,22.9,No,No,Control,Not applicable,16.0
+NLCG0968,Kogi,North Central,Urban,54,Male,Tertiary,Unemployed/Retired,Never,No,Current,No,No,Moderate,18.8,No,No,Control,Not applicable,5.5
+NLCG0969,Kaduna,North West,Rural,44,Female,Tertiary,Trading,Never,No,Never,No,No,Moderate,27.6,No,No,Control,Not applicable,4.3
+NLCG0970,Ogun,South West,Urban,46,Female,Secondary,Civil service,Never,No,Current,No,No,High,26.4,Yes,No,Control,Not applicable,14.4
+NLCG0971,Oyo,South West,Urban,62,Male,Primary,Unemployed/Retired,Never,No,Current,No,No,Low,34.1,No,No,Case,I,167.0
+NLCG0972,Nasarawa,North Central,Rural,30,Female,Primary,Agriculture,Never,No,Never,No,No,Moderate,21.0,No,Yes,Control,Not applicable,9.0
+NLCG0973,Rivers,South South,Urban,26,Female,Secondary,Agriculture,Never,No,Never,No,No,Moderate,19.4,No,No,Control,Not applicable,7.7
+NLCG0974,Kano,North West,Urban,69,Male,Tertiary,Agriculture,Current,No,Never,Yes,No,High,24.7,No,No,Case,II,119.4
+NLCG0975,Akwa Ibom,South South,Rural,56,Male,Secondary,Agriculture,Never,No,Current,No,No,Moderate,31.9,No,No,Control,Not applicable,5.0
+NLCG0976,Zamfara,North West,Urban,29,Female,Secondary,Agriculture,Never,No,Never,Yes,No,Moderate,33.7,No,No,Control,Not applicable,22.4
+NLCG0977,Rivers,South South,Urban,49,Female,Tertiary,Professional,Never,No,Never,Yes,No,High,29.1,Yes,No,Case,I,18.2
+NLCG0978,Osun,South West,Urban,76,Male,Primary,Agriculture,Never,No,Never,No,Yes,High,21.3,No,No,Control,Not applicable,9.0
+NLCG0979,Plateau,North Central,Rural,43,Male,Tertiary,Unemployed/Retired,Never,No,Never,No,No,Moderate,27.7,No,No,Control,Not applicable,6.8
+NLCG0980,Kaduna,North West,Rural,41,Male,Primary,Unemployed/Retired,Never,No,Current,No,No,Moderate,27.8,No,No,Control,Not applicable,5.1
+NLCG0981,Lagos,South West,Urban,51,Male,Primary,Trading,Never,No,Current,No,No,High,15.8,No,No,Control,Not applicable,6.0
+NLCG0982,Anambra,South East,Rural,60,Male,None,Civil service,Never,No,Current,No,No,Low,26.4,No,No,Control,Not applicable,13.9
+NLCG0983,Oyo,South West,Urban,65,Female,Primary,Trading,Never,No,Former,No,No,Moderate,29.7,No,No,Control,Not applicable,18.5
+NLCG0984,Edo,South South,Rural,60,Female,Secondary,Civil service,Former,No,Never,No,No,Moderate,30.0,No,No,Control,Not applicable,9.0
+NLCG0985,Kaduna,North West,Rural,38,Female,None,Agriculture,Never,No,Never,No,No,Moderate,33.5,No,No,Control,Not applicable,11.6
+NLCG0986,Sokoto,North West,Urban,54,Male,Secondary,Skilled manual,Never,No,Never,No,No,Low,21.2,No,No,Control,Not applicable,5.6
+NLCG0987,Niger,North Central,Rural,31,Female,None,Unemployed/Retired,Never,No,Never,No,No,Low,31.2,No,No,Control,Not applicable,10.7
+NLCG0988,Borno,North East,Urban,65,Male,Secondary,Professional,Former,No,Current,No,No,Low,27.8,No,No,Control,Not applicable,8.0
+NLCG0989,Benue,North Central,Rural,55,Female,Primary,Agriculture,Never,No,Current,No,No,High,15,Yes,No,Control,Not applicable,5.6
+NLCG0990,Taraba,North East,Urban,63,Female,Tertiary,Agriculture,Former,No,Current,Yes,No,High,27.1,No,No,Control,Not applicable,9.1
+NLCG0991,Katsina,North West,Rural,71,Female,Secondary,Skilled manual,Never,No,Current,Yes,No,Moderate,31.7,No,No,Control,Not applicable,10.8
+NLCG0992,Rivers,South South,Urban,56,Male,None,Agriculture,Never,No,Current,Yes,No,High,26.4,No,No,Control,Not applicable,18.0
+NLCG0993,FCT,North Central,Urban,72,Female,Primary,Agriculture,Never,No,Current,No,No,Moderate,26.1,No,No,Control,Not applicable,10.7
+NLCG0994,Kano,North West,Rural,63,Female,Primary,Skilled manual,Never,No,Never,No,No,Low,31.2,No,No,Control,Not applicable,19.1
+NLCG0995,Anambra,South East,Rural,78,Female,None,Civil service,Never,No,Never,No,No,Moderate,35.8,No,Yes,Control,Not applicable,10.8
+NLCG0996,Kaduna,North West,Urban,36,Female,Secondary,Professional,Never,No,Never,No,No,Low,21.4,No,No,Control,Not applicable,6.7
+NLCG0997,Nasarawa,North Central,Urban,70,Female,Tertiary,Unemployed/Retired,Never,No,Former,No,No,Moderate,27.2,No,No,Control,Not applicable,13.1
+NLCG0998,Ondo,South West,Rural,40,Male,None,Skilled manual,Never,No,Current,No,No,High,21.3,No,No,Control,Not applicable,3.6
+NLCG0999,Kebbi,North West,Urban,54,Female,Primary,Professional,Never,No,Never,No,No,Moderate,25.3,No,No,Control,Not applicable,4.7
+NLCG1000,Kano,North West,Urban,69,Female,Primary,Professional,Former,No,Never,No,No,Moderate,29.4,No,No,Control,Not applicable,17.8

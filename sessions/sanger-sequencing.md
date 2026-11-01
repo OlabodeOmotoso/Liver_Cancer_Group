@@ -1,3 +1,8 @@
+---
+title: "Session 3: Sanger Sequencing Analysis"
+nav_order: 4
+---
+
 # Session 3: Sanger Sequencing Analysis
 
 **Olabode Omotoso**
@@ -10,7 +15,7 @@ November 1, 2026
 
 ## Learning objectives
 
-By the end of this session you should be able to:
+By the end of today's session you should be able to:
 
 - Explain briefly how Sanger sequencing works and where it fits next to arrays and NGS.
 - Open and read a chromatogram and judge sequence quality.

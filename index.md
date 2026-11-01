@@ -1,26 +1,33 @@
+---
+title: Home
+layout: home
+nav_order: 1
+---
+
 # Liver Cancer Genetics Group Training
 
 Hands-on training in the command line, R and GWAS, with a focus on the genetics of liver cancer in African and African-ancestry populations.
+
+Nigerian Liver Cancer Molecular Research Group.
 
 **Format:** 12 sessions, twice a month, 90 minutes each.
 
 ## Schedule
 
-| Session | Topic | Page |
-|---|---|---|
-| 1 | Command line I | coming soon |
-| 2 | Command line II | coming soon |
-| 3 | Introduction to R | coming soon |
-| 4 | Data wrangling in R | coming soon |
-| 5 | Data visualization in R | coming soon |
-| 6 | Genetics and GWAS concepts | coming soon |
-| 7 | Genotype data, QC and imputation | coming soon |
-| 8 | PCA | coming soon |
-| 9 | ADMIXTURE | coming soon |
-| 10 | Running a GWAS | coming soon |
-| 11 | Manhattan, QQ, gnomAD and LocusZoom | coming soon |
-| 12 | Synthesis and presentations | coming soon |
-| Bonus | [Sanger sequencing analysis](sessions/sanger-sequencing.md) | ready |
+| Session | Topic |
+|---|---|
+| 1 | [Command line I](sessions/session-01-command-line-1.html) |
+| 2 | [Command line II](sessions/session-02-command-line-2.html) |
+| 3 | [Sanger sequencing analysis](sessions/sanger-sequencing.html) |
+| 4 | [Introduction to R](sessions/session-04-intro-to-r.html) |
+| 5 | [Data wrangling and visualization in R](sessions/session-05-wrangling-and-visualization.html) |
+| 6 | [Genetics and GWAS concepts](sessions/session-06-gwas-concepts.html) |
+| 7 | [Genotype data, QC and imputation](sessions/session-07-qc-and-imputation.html) |
+| 8 | [Population structure: PCA](sessions/session-08-pca.html) |
+| 9 | [Population structure: ADMIXTURE](sessions/session-09-admixture.html) |
+| 10 | [Running a GWAS](sessions/session-10-running-gwas.html) |
+| 11 | [Visualizing results: Manhattan, QQ, gnomAD and LocusZoom](sessions/session-11-visualizing-results.html) |
+| 12 | [Synthesis and presentations](sessions/session-12-synthesis.html) |
 
 ## Getting the course files
 

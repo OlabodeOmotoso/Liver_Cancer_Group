@@ -11,7 +11,7 @@ October 18, 2026
 
 *Prepared for the Nigerian Liver Cancer Molecular Research Group*
 
-This is the last session on Linux.
+This is the second and last introductory session on Linux.
 
 ## Recap
 
@@ -39,6 +39,7 @@ cat sample_panel.tsv | grep AFR | cut -f2 | sort | uniq -c > population_counts.t
 ```
 
 ## Hands-on session
+![Directories for hands-on session](../images/directoryhandson.png)
 
 ### Get the files
 

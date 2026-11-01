@@ -10,7 +10,13 @@ Hands-on training in the command line, R and GWAS, with a focus on the genetics 
 
 Nigerian Liver Cancer Molecular Research Group.
 
+**Instructor:** Olabode Omotoso  olabodeomotoso@gmail.com
+
 **Format:** 12 sessions, twice a month, 90 minutes each.
+
+**Delivery format:** Virtual via Google meet.
+
+**Meeting venue:** https://meet.google.com/nnu-yrix-mmd?hs=224
 
 ## Schedule
 

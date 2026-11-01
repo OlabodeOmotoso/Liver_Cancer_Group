@@ -15,7 +15,7 @@ November 1, 2026
 
 ## Learning objectives
 
-By the end of today's session you should be able to:
+By the end of today's session, you should be able to:
 
 - Explain briefly how Sanger sequencing works and where it fits next to arrays and NGS.
 - Open and read a chromatogram and judge sequence quality.
@@ -29,6 +29,9 @@ Sanger sequencing works by chain termination. Fluorescent ddNTPs stop the growin
 
 Compared with other genetic data types, genotyping arrays measure a fixed set of SNPs, NGS reads many regions at scale, and Sanger reads one region very accurately.
 
+## Sanger sequencing method
+   ![Sanger sequencing steps](../images/sequencingsteps.png)
+   
 ## Why Sanger sequencing is still important
 
 **Good uses**
@@ -64,6 +67,9 @@ Compared with other genetic data types, genotyping arrays measure a fixed set of
    - `SAMPLE_1_F.ab1`
    - `SAMPLE_1_R.ab1`
 
+## Sequence chromatogram
+   ![Sanger sequence output](../images/chromatogram.png)
+   
 ## Inspecting the chromatogram in FinchTV
 
 1. Open FinchTV and use **File > Open** to load one `.ab1` file.
@@ -107,7 +113,7 @@ ATGC...
 
 1. Go to <https://blast.ncbi.nlm.nih.gov/Blast.cgi> and choose **Nucleotide BLAST**.
 2. Paste your cleaned FASTA sequence.
-3. For the database, start with **Standard databases (nr/nt)**. Choose **Human genomic plus transcript** if you expect a human sequence.
+3. For the database, Choose **the default or the appropriate database** .
 4. Click **BLAST** and wait for the results.
 5. Read the top hit:
 
@@ -126,7 +132,7 @@ ATGC...
 4. For a reverse read, reverse-complement it first, then translate.
 5. Copy the protein sequence into your notes.
 
-## Additional resources
+## Additional resources for translation
 
 - **NCBI ORFfinder:** <https://www.ncbi.nlm.nih.gov/orffinder> finds open reading frames in your sequence and is a useful second check on the frame you picked in Expasy.
 

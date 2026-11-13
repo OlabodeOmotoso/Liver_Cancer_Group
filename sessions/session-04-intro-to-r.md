@@ -16,7 +16,7 @@ November 15, 2026
 `cars` from `datasets`
 `flights` from `nycflights13`
 
-**Data for assignment/handson task:** `Nigeria_Simulated_Liver_Cancer_Dataset.csv` (1,000 simulated participants, 20 columns)
+**Data for assignment/hands-on task:** `Nigeria_Simulated_Liver_Cancer_Dataset.csv` (1,000 simulated participants, 20 columns)
 
 ## Learning objectives
 
@@ -100,7 +100,7 @@ R.version.string
 |---|---|
 | **Source** (top left) | Writing and saving scripts. Open one with **File > New File > R Script**. |
 | **Console / Terminal / Jobs** (bottom left) | Where code runs and results appear. |
-| **Environment / History / Connections / Tutorial** (top right) | See the objects you have made, and the commands you have run. |
+| **Environment / History / Connections / Tutorial** (top right) | See the objects you have made, and the commands you have run. Explore the tutorial, it is a great resource |
 | **Files / Plots / Packages / Help** (bottom right) | Browse folders, view plots, manage packages and read help. |
 
 **Useful habits**
@@ -109,7 +109,7 @@ R.version.string
 - Run the current line or selection with **Ctrl+Enter** (Windows/Linux) or **Cmd+Enter** (Mac).
 - Anything after `#` is a **comment**. R ignores it, so use comments to explain your code.
 - Press **Tab** to auto-complete names, just like in the terminal.
-- Get help on any function with `?` for example `?mean`.
+- Get help on any function or package with `?` for example `?mean`.
 
 ```r
 # This is a comment: R will not run this line
@@ -136,6 +136,13 @@ age + 5
 
 Naming rules: use letters, numbers, `_` and `.`; do not start with a number; no spaces. R is **case sensitive**, so `Age` and `age` are different objects.
 
+```r
+age <- 90
+Age <- 24
+age
+Age
+```
+
 ### Basic data types
 
 | Type | Example | Meaning |
@@ -145,16 +152,27 @@ Naming rules: use letters, numbers, `_` and `.`; do not start with a number; no 
 | logical | `TRUE`, `FALSE` | Yes/no results |
 | factor | `Male`, `Female` | A category with fixed levels |
 
-Check any object's type with `class()`:
+Check any object's type, primarily with `class()`, while `str()` and `glimpse()` can also come in handy, mainly for data frames or files:
 
 ```r
 class(61)
 class("Bayelsa")
 class(TRUE)
 ```
+
+for other data types, let's see **flights** from the **nycflights13** package
+```r
+library(nycflights13)
+flights
+```
+
 ### Data frames
 
 In a **data frame**, variables appear in columns and observations in rows
+
+### Tibbles
+
+**Tibbles** are **data frames** with extra properties and user-friendly, an example is the **flights** data frame in the **nycflights13** package
 
 ### Vectors
 

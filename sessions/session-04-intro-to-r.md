@@ -148,7 +148,7 @@ Age
 | Type | Example | Meaning |
 |---|---|---|
 | numeric | `61`, `19.7` | Numbers |
-| character | `"Bayelsa"` | Text, always in quotes |
+| character | `"Bayelsa"` | Text, always in quotes. For strings or character vectors |
 | logical | `TRUE`, `FALSE` | Yes/no results |
 | factor | `Male`, `Female` | A category with fixed levels |
 
@@ -160,10 +160,10 @@ class("Bayelsa")
 class(TRUE)
 ```
 
-for other data types, let's see **flights** from the **nycflights13** package
+for other data types, let's see an example **flights** from the **nycflights13** package
 ```r
 library(nycflights13)
-flights
+flights   #we should see dttm and int. 
 ```
 
 ### Data frames

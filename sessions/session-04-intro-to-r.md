@@ -11,7 +11,12 @@ November 15, 2026
 
 *Prepared for the Nigerian Liver Cancer Molecular Research Group*
 
-**Data used today:** `Nigeria_Simulated_Liver_Cancer_Dataset.csv` (1,000 simulated participants, 20 columns)
+**Data used today:** 
+`mpg` from `ggplot2`
+`cars` from `datasets`
+`flights` from `nycflights13`
+
+**Data for assignment/handson task:** `Nigeria_Simulated_Liver_Cancer_Dataset.csv` (1,000 simulated participants, 20 columns)
 
 ## Learning objectives
 
@@ -94,8 +99,8 @@ R.version.string
 | Pane | Use it for |
 |---|---|
 | **Source** (top left) | Writing and saving scripts. Open one with **File > New File > R Script**. |
-| **Console** (bottom left) | Where code runs and results appear. |
-| **Environment / History** (top right) | See the objects you have made, and the commands you have run. |
+| **Console / Terminal / Jobs** (bottom left) | Where code runs and results appear. |
+| **Environment / History / Connections / Tutorial** (top right) | See the objects you have made, and the commands you have run. |
 | **Files / Plots / Packages / Help** (bottom right) | Browse folders, view plots, manage packages and read help. |
 
 **Useful habits**
@@ -147,6 +152,9 @@ class(61)
 class("Bayelsa")
 class(TRUE)
 ```
+### Data frames
+
+In a **data frame**, variables appear in columns and observations in rows
 
 ### Vectors
 
@@ -208,6 +216,17 @@ file.exists("Nigeria_Simulated_Liver_Cancer_Dataset.csv")   # TRUE or FALSE
 ```
 
 ### Getting today's file
+library(ggplot2)
+?mpg
+
+library(dplyr)
+library(datasets)
+?cars
+
+library(nycflights13)
+?flights
+
+### Getting the file for your task and hands-on exercise
 
 Download the file to your working directory. In R:
 
@@ -459,7 +478,7 @@ Save your **script** too (Ctrl+S or Cmd+S) with a clear name, such as `session4_
 
 ---
 
-## Hands-on practice
+## Additional hands-on practice
 
 Work through these in a new script called `session4_practice.R`.
 

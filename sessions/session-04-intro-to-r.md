@@ -12,8 +12,8 @@ November 15, 2026
 *Prepared for the Nigerian Liver Cancer Molecular Research Group*
 
 **Data used today:** 
-`mpg` from `ggplot2`
-`cars` from `datasets`
+`mpg` from `ggplot2`,
+`cars` from `datasets`,
 `flights` from `nycflights13`
 
 **Data for assignment/hands-on task:** `Nigeria_Simulated_Liver_Cancer_Dataset.csv` (1,000 simulated participants, 20 columns)

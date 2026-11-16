@@ -1,5 +1,8 @@
 # Session 7: Genotype data formats and PLINK quality control
 
+**Olabode Omotoso** olabodeomotoso@gmail.com
+for: The Nigerian Liver Cancer Molecular Research Group
+
 ## Training dataset
 
 This session uses a fully simulated liver cancer genotype dataset. The genotype calls, marker identifiers, genomic positions, quality-control problems, relatedness patterns, genotype structure, and association signals are synthetic. The files are for training only and must not be interpreted as evidence about Nigerian populations or liver cancer genetics.

@@ -1,0 +1,5 @@
+File	Purpose
+BED	Binary SNP-major genotype matrix
+BIM	Chromosome, marker ID, genetic distance, base-pair position, A1, A2
+FAM	FID, IID, father, mother, reported sex, phenotype
+covariates TSV	Prepared non-genetic covariates and synthetic stratum labels

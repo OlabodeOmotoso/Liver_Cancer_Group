@@ -1,0 +1,63 @@
+{
+  "seed": 20261116,
+  "samples": 1000,
+  "markers_total": 10000,
+  "autosomal_markers": 9600,
+  "x_markers": 400,
+  "cases": 86,
+  "controls": 914,
+  "reported_males": 504,
+  "reported_females": 496,
+  "high_missing_sample_ids": [
+    "NLCG0025",
+    "NLCG0250",
+    "NLCG0750"
+  ],
+  "high_missing_snp_ids": [
+    "trainSNP_00500",
+    "trainSNP_01500",
+    "trainSNP_02500",
+    "trainSNP_03500",
+    "trainSNP_04500",
+    "trainSNP_05500"
+  ],
+  "intentional_reported_sex_miscodes": [
+    "NLCG0042",
+    "NLCG0319",
+    "NLCG0708",
+    "NLCG0913"
+  ],
+  "intentional_duplicate_pair": [
+    "NLCG0010",
+    "NLCG0011"
+  ],
+  "intentional_related_pairs": [
+    [
+      "NLCG0101",
+      "NLCG0102"
+    ],
+    [
+      "NLCG0301",
+      "NLCG0302"
+    ],
+    [
+      "NLCG0501",
+      "NLCG0502"
+    ]
+  ],
+  "intentional_hwe_problem_markers": [
+    "trainSNP_08501",
+    "trainSNP_08502",
+    "trainSNP_08503",
+    "trainSNP_08504",
+    "trainSNP_08505"
+  ],
+  "planted_association_markers": [
+    "trainSNP_00200",
+    "trainSNP_01200",
+    "trainSNP_03200",
+    "trainSNP_05200",
+    "trainSNP_07200"
+  ],
+  "boundaries": "Entirely synthetic. Synthetic strata are not Nigerian states, ethnicities, or validated ancestry groups."
+}
